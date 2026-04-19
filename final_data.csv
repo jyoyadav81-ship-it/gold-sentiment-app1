@@ -1,0 +1,1201 @@
+text,sentiment,sentiment_num,Date,Price,Price_MA,Sentiment_MA,price_smooth,sentiment_smooth
+Gold remains unchanged in light of market volatility,neutral,0,2020-01-01,1496.797228329445,,,,
+Investors are worried about gold due to stock market fluctuations,negative,-1,2020-01-02,1502.5546360601606,,,,
+Gold market shows little change amid market volatility,neutral,0,2020-01-03,1501.637014835274,,,,
+Investors are worried about gold due to global tensions,negative,-1,2020-01-04,1503.6796233497266,,,,
+Investors are worried about gold due to central bank policies,negative,-1,2020-01-05,1504.6779904769191,,,,
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2020-01-06,1508.1247013289449,,,,
+Gold remains unchanged in light of investor sentiment,neutral,0,2020-01-07,1509.1009576054587,,,,
+No major movement in gold prices because of weak currency,neutral,0,2020-01-08,1513.0475185193056,,,,
+Gold prices are rising due to geopolitical risks,positive,1,2020-01-09,1509.8796567195773,,,,
+Gold prices are rising due to central bank policies,positive,1,2020-01-10,1507.560481745793,1505.7059808970605,-0.2,1505.7059808970605,-0.2
+Investors are worried about gold due to weak currency,negative,-1,2020-01-11,1511.3579556167035,1507.1620536257865,-0.3,1507.1620536257865,-0.3
+Gold is trading sideways due to interest rate changes,neutral,0,2020-01-12,1515.4826140301925,1508.4548514227895,-0.2,1508.4548514227895,-0.2
+Investors are worried about gold due to economic uncertainty,negative,-1,2020-01-13,1518.9103238920425,1510.1821823284663,-0.3,1510.1821823284663,-0.3
+Gold prices are rising due to geopolitical risks,positive,1,2020-01-14,1522.6883934643258,1512.0830593399264,-0.1,1512.0830593399264,-0.1
+Gold prices are rising due to inflation,positive,1,2020-01-15,1521.035023239931,1513.7187626162274,0.1,1513.7187626162274,0.1
+Gold prices remain stable despite strong dollar,neutral,0,2020-01-16,1524.704162413605,1515.3767087246936,0.2,1515.3767087246936,0.2
+Gold market weakens as global tensions declines,negative,-1,2020-01-17,1518.0925069192783,1516.2758636560754,0.1,1516.2758636560754,0.1
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2020-01-18,1517.6200373258257,1516.7331155367274,0.2,1516.7331155367274,0.2
+Gold market weakens as market volatility declines,negative,-1,2020-01-19,1509.9442634918553,1516.7395762139554,0.0,1516.7395762139554,0.0
+Investors are optimistic about gold because of central bank policies,positive,1,2020-01-20,1511.819256409596,1517.1654536803355,0.0,1517.1654536803355,0.0
+Gold market shows little change amid global tensions,neutral,0,2020-01-21,1511.2267135193972,1517.152329470605,0.1,1517.152329470605,0.1
+Gold is gaining value as weak currency improves,positive,1,2020-01-22,1511.9281941865836,1516.796887486244,0.2,1516.796887486244,0.2
+Selling pressure reduces gold value because of market volatility,negative,-1,2020-01-23,1518.0242859268667,1516.7082836897266,0.2,1516.7082836897266,0.2
+No major movement in gold prices because of global tensions,neutral,0,2020-01-24,1514.3151644852023,1515.870960791814,0.1,1515.870960791814,0.1
+Gold prices are falling because of inflation,negative,-1,2020-01-25,1514.5599278204252,1515.2234512498635,-0.1,1515.2234512498635,-0.1
+Gold prices are falling because of economic uncertainty,negative,-1,2020-01-26,1509.9828262027238,1513.7513176287753,-0.2,1513.7513176287753,-0.2
+Gold market shows little change amid stock market fluctuations,neutral,0,2020-01-27,1514.7956121886402,1513.4216281557117,-0.1,1513.4216281557117,-0.1
+Gold demand is increasing amid geopolitical risks,positive,1,2020-01-28,1516.373986556418,1513.297023078771,-0.1,1513.297023078771,-0.1
+Investors are worried about gold due to economic uncertainty,negative,-1,2020-01-29,1513.3504888724508,1513.6376456168305,-0.1,1513.6376456168305,-0.1
+Gold prices are falling because of weak currency,negative,-1,2020-01-30,1512.6056908167604,1513.7162890575469,-0.3,1513.7162890575469,-0.3
+Gold demand is increasing amid interest rate changes,positive,1,2020-01-31,1518.1956541026211,1514.413183115869,-0.2,1514.413183115869,-0.2
+Gold prices remain stable despite inflation,neutral,0,2020-02-01,1510.175521239344,1514.2379158211452,-0.3,1514.2379158211452,-0.3
+No major movement in gold prices because of economic uncertainty,neutral,0,2020-02-02,1510.2076900829736,1513.456256236756,-0.2,1513.456256236756,-0.2
+Selling pressure reduces gold value because of global tensions,negative,-1,2020-02-03,1513.615932209779,1513.3863330092136,-0.3,1513.3863330092136,-0.3
+Gold is trading sideways due to inflation,neutral,0,2020-02-04,1511.6799784911414,1513.0983380762852,-0.2,1513.0983380762852,-0.2
+Gold market shows little change amid investor sentiment,neutral,0,2020-02-05,1520.40324139059,1514.140379595072,-0.1,1514.140379595072,-0.1
+Gold demand is decreasing amid weak currency,negative,-1,2020-02-06,1524.4040729105502,1515.1012256672627,-0.2,1515.1012256672627,-0.2
+Gold demand is decreasing amid economic uncertainty,negative,-1,2020-02-07,1522.4351361769282,1515.707340629314,-0.4,1515.707340629314,-0.4
+Gold demand is increasing amid market volatility,positive,1,2020-02-08,1522.446823036496,1516.6169740457185,-0.2,1516.6169740457185,-0.2
+Gold demand is decreasing amid interest rate changes,negative,-1,2020-02-09,1518.3380811193654,1517.1902130759788,-0.2,1517.1902130759788,-0.2
+Gold prices are rising due to investor sentiment,positive,1,2020-02-10,1520.7324651626432,1517.4438941819812,-0.2,1517.4438941819812,-0.2
+Gold remains unchanged in light of inflation,neutral,0,2020-02-11,1516.6980877215258,1518.0961508301991,-0.2,1518.0961508301991,-0.2
+Investors are worried about gold due to inflation,negative,-1,2020-02-12,1509.8795101821486,1518.0633328401168,-0.3,1518.0633328401168,-0.3
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2020-02-13,1514.6171252202698,1518.163452141166,-0.3,1518.163452141166,-0.3
+Gold remains unchanged in light of interest rate changes,neutral,0,2020-02-14,1521.670613720929,1519.1625156641444,-0.3,1519.1625156641444,-0.3
+Gold is gaining value as economic uncertainty improves,positive,1,2020-02-15,1520.6753022461853,1519.189721749704,-0.2,1519.189721749704,-0.2
+Gold demand is increasing amid investor sentiment,positive,1,2020-02-16,1520.2257146069278,1518.771885919342,0.0,1518.771885919342,0.0
+Gold market shows little change amid market volatility,neutral,0,2020-02-17,1518.209861589858,1518.349358460635,0.1,1518.349358460635,0.1
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2020-02-18,1521.0160775788695,1518.2062839148723,-0.1,1518.2062839148723,-0.1
+Gold prices are rising due to weak currency,positive,1,2020-02-19,1516.4030204773978,1518.0127778506755,0.1,1518.0127778506755,0.1
+No major movement in gold prices because of interest rate changes,neutral,0,2020-02-20,1518.9976967691537,1517.8393010113264,0.0,1517.8393010113264,0.0
+Gold demand is decreasing amid interest rate changes,negative,-1,2020-02-21,1521.5080041821648,1518.3202926573906,-0.1,1518.3202926573906,-0.1
+Gold prices are falling because of inflation,negative,-1,2020-02-22,1521.9541825815038,1519.527759897326,-0.1,1519.527759897326,-0.1
+Gold prices are falling because of market volatility,negative,-1,2020-02-23,1518.3675865522864,1519.9028060305277,-0.1,1519.9028060305277,-0.1
+No major movement in gold prices because of economic uncertainty,neutral,0,2020-02-24,1515.2951131605282,1519.2652559744877,-0.1,1519.2652559744877,-0.1
+Gold market shows little change amid market volatility,neutral,0,2020-02-25,1517.3061162880776,1518.9283373786768,-0.2,1518.9283373786768,-0.2
+Gold prices are falling because of inflation,negative,-1,2020-02-26,1516.3679046392958,1518.5425563819138,-0.4,1518.5425563819138,-0.4
+Gold is trading sideways due to investor sentiment,neutral,0,2020-02-27,1512.0039051352446,1517.921960736452,-0.4,1517.921960736452,-0.4
+Gold prices remain stable despite inflation,neutral,0,2020-02-28,1514.042883361276,1517.224641314693,-0.3,1517.224641314693,-0.3
+No major movement in gold prices because of central bank policies,neutral,0,2020-02-29,1508.4779480853158,1516.4321340754846,-0.4,1516.4321340754846,-0.4
+Gold demand is increasing amid economic uncertainty,positive,1,2020-03-01,1510.3342375519196,1515.565788153761,-0.3,1515.565788153761,-0.3
+Gold remains unchanged in light of strong dollar,neutral,0,2020-03-02,1516.6575520149754,1515.0807429370425,-0.2,1515.0807429370425,-0.2
+Gold is gaining value as market volatility improves,positive,1,2020-03-03,1528.1946445609403,1515.704789134986,0.0,1515.704789134986,0.0
+Gold is trading sideways due to weak currency,neutral,0,2020-03-04,1532.5306758360698,1517.1210980633643,0.1,1517.1210980633643,0.1
+Gold prices are rising due to global tensions,positive,1,2020-03-05,1536.6494198642613,1519.2565287337377,0.2,1519.2565287337377,0.2
+Selling pressure reduces gold value because of weak currency,negative,-1,2020-03-06,1538.114473487524,1521.3373644536823,0.1,1521.3373644536823,0.1
+Gold is gaining value as market volatility improves,positive,1,2020-03-07,1537.5082260016352,1523.4513965899162,0.3,1523.4513965899162,0.3
+Gold is gaining value as weak currency improves,positive,1,2020-03-08,1528.53147118525,1525.1041531949168,0.4,1525.1041531949168,0.4
+Strong buying interest pushes gold higher due to global tensions,positive,1,2020-03-09,1530.968113235512,1526.7966761823404,0.5,1526.7966761823404,0.5
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2020-03-10,1532.12055440111,1529.1609368139198,0.4,1529.1609368139198,0.4
+No major movement in gold prices because of investor sentiment,neutral,0,2020-03-11,1532.5222642881397,1531.379739487542,0.3,1531.379739487542,0.3
+Gold is gaining value as investor sentiment improves,positive,1,2020-03-12,1547.085869426386,1534.422571228683,0.4,1534.422571228683,0.4
+Strong buying interest pushes gold higher due to weak currency,positive,1,2020-03-13,1545.0584443581554,1536.1089512084045,0.4,1536.1089512084045,0.4
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2020-03-14,1551.1967123247882,1537.9755548572762,0.5,1537.9755548572762,0.5
+Investors are optimistic about gold because of market volatility,positive,1,2020-03-15,1554.7521531295954,1539.7858281838094,0.5,1539.7858281838094,0.5
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2020-03-16,1549.8579788860145,1540.9601787236586,0.5,1540.9601787236586,0.5
+Gold prices are falling because of inflation,negative,-1,2020-03-17,1549.9163970019652,1542.2009958236918,0.3,1542.2009958236918,0.3
+Gold remains unchanged in light of interest rate changes,neutral,0,2020-03-18,1553.679854612101,1544.715834166377,0.2,1544.715834166377,0.2
+Gold is gaining value as central bank policies improves,positive,1,2020-03-19,1555.2690757865432,1547.1459304214798,0.2,1547.1459304214798,0.2
+Gold demand is decreasing amid geopolitical risks,negative,-1,2020-03-20,1558.4422734129894,1549.7781023226676,0.2,1549.7781023226676,0.2
+Gold market shows little change amid geopolitical risks,neutral,0,2020-03-21,1546.5650150455936,1551.182377398413,0.2,1551.182377398413,0.2
+Gold is trading sideways due to central bank policies,neutral,0,2020-03-22,1546.370682163336,1551.1108586721082,0.1,1551.1108586721082,0.1
+Investors are worried about gold due to weak currency,negative,-1,2020-03-23,1545.1104432335146,1551.116058559644,-0.1,1551.116058559644,-0.1
+Gold market shows little change amid geopolitical risks,neutral,0,2020-03-24,1542.646056167162,1550.2609929438815,-0.2,1550.2609929438815,-0.2
+Gold market shows little change amid strong dollar,neutral,0,2020-03-25,1549.12359245584,1549.698136876506,-0.3,1549.698136876506,-0.3
+Gold demand is decreasing amid interest rate changes,negative,-1,2020-03-26,1545.209478688563,1549.2332868567607,-0.3,1549.2332868567607,-0.3
+Gold prices are falling because of strong dollar,negative,-1,2020-03-27,1543.5792666389077,1548.5995738204551,-0.3,1548.5995738204551,-0.3
+Gold demand is increasing amid central bank policies,positive,1,2020-03-28,1540.9861145474697,1547.3301998139918,-0.2,1547.3301998139918,-0.2
+Gold is trading sideways due to inflation,neutral,0,2020-03-29,1541.7129261693383,1545.9745848522714,-0.3,1545.9745848522714,-0.3
+Gold demand is increasing amid economic uncertainty,positive,1,2020-03-30,1536.8636000399383,1543.8167175149665,-0.1,1543.8167175149665,-0.1
+Gold prices are rising due to economic uncertainty,positive,1,2020-03-31,1535.87889423431,1542.748105433838,0.0,1542.748105433838,0.0
+Gold is trading sideways due to stock market fluctuations,neutral,0,2020-04-01,1534.307886828724,1541.5418259003768,0.0,1541.5418259003768,0.0
+Investors are worried about gold due to inflation,negative,-1,2020-04-02,1536.1681357157092,1540.647595148596,0.0,1540.647595148596,0.0
+Investors are optimistic about gold because of investor sentiment,positive,1,2020-04-03,1528.9807901389102,1539.2810685457712,0.1,1539.2810685457712,0.1
+No major movement in gold prices because of central bank policies,neutral,0,2020-04-04,1522.49308288772,1536.618017588959,0.1,1536.618017588959,0.1
+Selling pressure reduces gold value because of strong dollar,negative,-1,2020-04-05,1527.9782287046344,1534.894892590566,0.1,1534.894892590566,0.1
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2020-04-06,1532.53774634454,1533.7907405611293,0.3,1533.7907405611293,0.3
+Gold demand is increasing amid interest rate changes,positive,1,2020-04-07,1544.1545252468316,1534.1075816310654,0.3,1534.1075816310654,0.3
+Gold prices are falling because of strong dollar,negative,-1,2020-04-08,1548.7981159943297,1534.816100613565,0.2,1534.816100613565,0.2
+Gold is gaining value as geopolitical risks improves,positive,1,2020-04-09,1546.411326797824,1535.7708732893534,0.2,1535.7708732893534,0.2
+Gold is gaining value as strong dollar improves,positive,1,2020-04-10,1542.8735766144437,1536.4703415273666,0.2,1536.4703415273666,0.2
+Gold remains unchanged in light of interest rate changes,neutral,0,2020-04-11,1547.8780252273816,1537.8273553672325,0.2,1537.8273553672325,0.2
+Gold prices are rising due to geopolitical risks,positive,1,2020-04-12,1553.0712178783751,1539.5176635834991,0.4,1539.5176635834991,0.4
+Gold is gaining value as geopolitical risks improves,positive,1,2020-04-13,1562.3179684758004,1542.851381417188,0.4,1542.851381417188,0.4
+Gold remains unchanged in light of economic uncertainty,neutral,0,2020-04-14,1565.8855734211145,1547.1906304705274,0.4,1547.1906304705274,0.4
+Gold demand is decreasing amid central bank policies,negative,-1,2020-04-15,1572.943814597072,1551.6871890597713,0.4,1551.6871890597713,0.4
+Gold demand is increasing amid weak currency,positive,1,2020-04-16,1568.9207656766334,1555.3254909929806,0.4,1555.3254909929806,0.4
+Gold is trading sideways due to interest rate changes,neutral,0,2020-04-17,1573.184355873825,1558.2284740556802,0.3,1558.2284740556802,0.3
+Gold market shows little change amid inflation,neutral,0,2020-04-18,1565.4850124777467,1559.8971637040218,0.4,1559.8971637040218,0.4
+Gold is gaining value as inflation improves,positive,1,2020-04-19,1574.8098041680266,1562.737011441042,0.4,1562.737011441042,0.4
+Gold prices remain stable despite inflation,neutral,0,2020-04-20,1563.3685111415823,1564.7865048937558,0.3,1564.7865048937558,0.3
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2020-04-21,1558.2002709759008,1565.8187294686077,0.2,1565.8187294686077,0.2
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2020-04-22,1562.0445228723115,1566.7160599680014,0.2,1566.7160599680014,0.2
+Investors are worried about gold due to geopolitical risks,negative,-1,2020-04-23,1567.379573395443,1567.2222204599657,0.0,1567.2222204599657,0.0
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2020-04-24,1573.7145188088862,1568.0051149987428,0.1,1568.0051149987428,0.1
+Gold remains unchanged in light of central bank policies,neutral,0,2020-04-25,1572.1910699118432,1567.92984053022,0.2,1567.92984053022,0.2
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2020-04-26,1577.206287102262,1568.7583926727827,0.0,1568.7583926727827,0.0
+No major movement in gold prices because of weak currency,neutral,0,2020-04-27,1577.1202022385469,1569.1519773092548,0.0,1569.1519773092548,0.0
+Selling pressure reduces gold value because of weak currency,negative,-1,2020-04-28,1580.0340414626796,1570.6068802077482,-0.1,1570.6068802077482,-0.1
+Gold is gaining value as interest rate changes improves,positive,1,2020-04-29,1577.9778119929424,1570.92368099024,-0.1,1570.92368099024,-0.1
+Gold remains unchanged in light of global tensions,neutral,0,2020-04-30,1576.346372057487,1572.2214670818305,-0.1,1572.2214670818305,-0.1
+Strong buying interest pushes gold higher due to interest rate changes,positive,1,2020-05-01,1583.805624721995,1574.7820024564396,0.1,1574.7820024564396,0.1
+Gold demand is decreasing amid inflation,negative,-1,2020-05-02,1589.2122093322714,1577.4987711024355,-0.1,1577.4987711024355,-0.1
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2020-05-03,1590.1918779175855,1579.7800015546495,-0.1,1579.7800015546495,-0.1
+No major movement in gold prices because of market volatility,neutral,0,2020-05-04,1592.7517001670074,1581.683719690462,-0.2,1581.683719690462,-0.2
+Investors are worried about gold due to global tensions,negative,-1,2020-05-05,1588.7992500726564,1583.3445377065432,-0.3,1583.3445377065432,-0.3
+Gold demand is increasing amid geopolitical risks,positive,1,2020-05-06,1583.924435855452,1584.0163525818623,-0.1,1584.0163525818623,-0.1
+Gold prices remain stable despite strong dollar,neutral,0,2020-05-07,1592.0875542155393,1585.5130877795616,-0.1,1585.5130877795616,-0.1
+Gold demand is decreasing amid investor sentiment,negative,-1,2020-05-08,1592.447836343936,1586.7544672676872,-0.1,1586.7544672676872,-0.1
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2020-05-09,1585.5699885735476,1587.5136849257476,-0.1,1587.5136849257476,-0.1
+Gold demand is decreasing amid investor sentiment,negative,-1,2020-05-10,1588.6823775960895,1588.747285479608,-0.2,1588.747285479608,-0.2
+Gold market weakens as geopolitical risks declines,negative,-1,2020-05-11,1584.580779702541,1588.8248009776628,-0.4,1588.8248009776628,-0.4
+Gold prices remain stable despite stock market fluctuations,neutral,0,2020-05-12,1592.5563583862663,1589.1592158830622,-0.3,1589.1592158830622,-0.3
+Gold remains unchanged in light of global tensions,neutral,0,2020-05-13,1600.124234223391,1590.1524515136427,-0.2,1590.1524515136427,-0.2
+Gold demand is increasing amid strong dollar,positive,1,2020-05-14,1597.1029949799638,1590.5875809949382,-0.1,1590.5875809949382,-0.1
+Gold prices are falling because of geopolitical risks,negative,-1,2020-05-15,1603.7511090268454,1592.082766890357,-0.1,1592.082766890357,-0.1
+Selling pressure reduces gold value because of weak currency,negative,-1,2020-05-16,1605.7213282410391,1594.2624561289158,-0.3,1594.2624561289158,-0.3
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2020-05-17,1593.0282523172598,1594.356525939088,-0.4,1594.356525939088,-0.4
+Investors are optimistic about gold because of weak currency,positive,1,2020-05-18,1587.0553375817203,1593.8172760628663,-0.2,1593.8172760628663,-0.2
+Investors are worried about gold due to geopolitical risks,negative,-1,2020-05-19,1591.8589407188265,1594.4461712773943,-0.4,1594.4461712773943,-0.4
+Gold prices remain stable despite stock market fluctuations,neutral,0,2020-05-20,1592.2421023473855,1594.8021437525238,-0.3,1594.8021437525238,-0.3
+Gold is trading sideways due to geopolitical risks,neutral,0,2020-05-21,1603.4032120095742,1596.6843869832271,-0.2,1596.6843869832271,-0.2
+Gold prices are falling because of interest rate changes,negative,-1,2020-05-22,1594.5428577606297,1596.8830369206637,-0.3,1596.8830369206637,-0.3
+Gold is gaining value as geopolitical risks improves,positive,1,2020-05-23,1590.2916983050422,1595.8997833288286,-0.2,1595.8997833288286,-0.2
+Gold remains unchanged in light of global tensions,neutral,0,2020-05-24,1590.9388883209488,1595.2833726629274,-0.3,1595.2833726629274,-0.3
+Gold market weakens as global tensions declines,negative,-1,2020-05-25,1586.8069112656613,1593.5889528868088,-0.3,1593.5889528868088,-0.3
+Gold demand is increasing amid economic uncertainty,positive,1,2020-05-26,1582.4443977335866,1591.2612598360636,-0.1,1591.2612598360636,-0.1
+Gold prices are rising due to strong dollar,positive,1,2020-05-27,1577.442892455948,1589.7027238499322,0.1,1589.7027238499322,0.1
+Gold prices are rising due to investor sentiment,positive,1,2020-05-28,1577.4486337049766,1588.742053462258,0.1,1588.742053462258,0.1
+Gold market weakens as market volatility declines,negative,-1,2020-05-29,1579.107674665721,1587.466926856947,0.1,1587.466926856947,0.1
+Gold market weakens as strong dollar declines,negative,-1,2020-05-30,1585.7345828443604,1586.8161749066448,0.0,1586.8161749066448,0.0
+No major movement in gold prices because of economic uncertainty,neutral,0,2020-05-31,1589.0256172868596,1585.3784154343734,0.0,1585.3784154343734,0.0
+No major movement in gold prices because of stock market fluctuations,neutral,0,2020-06-01,1592.4995042413236,1585.174080082443,0.1,1585.174080082443,0.1
+Gold prices remain stable despite stock market fluctuations,neutral,0,2020-06-02,1597.7562426824763,1585.920534520186,0.0,1585.920534520186,0.0
+Gold prices are rising due to global tensions,positive,1,2020-06-03,1588.9688193406903,1585.7235276221604,0.1,1585.7235276221604,0.1
+Investors are worried about gold due to stock market fluctuations,negative,-1,2020-06-04,1590.2885508589702,1586.0716915814912,0.1,1586.0716915814912,0.1
+Gold prices are falling because of geopolitical risks,negative,-1,2020-06-05,1595.2905117696384,1587.3563029850964,-0.1,1587.3563029850964,-0.1
+No major movement in gold prices because of global tensions,neutral,0,2020-06-06,1598.395097321573,1589.451523471659,-0.2,1589.451523471659,-0.2
+Gold prices are rising due to weak currency,positive,1,2020-06-07,1596.0058500992566,1591.307245111087,-0.2,1591.307245111087,-0.2
+Gold prices are rising due to central bank policies,positive,1,2020-06-08,1600.4283878077658,1593.4393164252913,0.0,1593.4393164252913,0.0
+Gold market weakens as economic uncertainty declines,negative,-1,2020-06-09,1598.1451757596303,1594.6803757168186,0.0,1594.6803757168186,0.0
+Strong buying interest pushes gold higher due to inflation,positive,1,2020-06-10,1601.6899711350625,1595.9468111016388,0.1,1595.9468111016388,0.1
+Gold demand is decreasing amid interest rate changes,negative,-1,2020-06-11,1606.316151400981,1597.3284758176044,0.0,1597.3284758176044,0.0
+Gold is gaining value as economic uncertainty improves,positive,1,2020-06-12,1605.5292306174697,1598.105774611104,0.1,1598.105774611104,0.1
+Gold remains unchanged in light of economic uncertainty,neutral,0,2020-06-13,1610.8438544395383,1600.2932781209886,0.0,1600.2932781209886,0.0
+Gold is trading sideways due to weak currency,neutral,0,2020-06-14,1613.7735958613152,1602.6417826212232,0.1,1602.6417826212232,0.1
+Gold prices are rising due to investor sentiment,positive,1,2020-06-15,1606.8691814652225,1603.7996495907814,0.3,1603.7996495907814,0.3
+Gold remains unchanged in light of global tensions,neutral,0,2020-06-16,1598.2247268114552,1603.7826125397698,0.3,1603.7826125397698,0.3
+Gold market shows little change amid global tensions,neutral,0,2020-06-17,1598.0739873424295,1603.9894262640871,0.2,1603.9894262640871,0.2
+Investors are worried about gold due to geopolitical risks,negative,-1,2020-06-18,1598.5924839828626,1603.8058358815967,0.0,1603.8058358815967,0.0
+Investors are optimistic about gold because of weak currency,positive,1,2020-06-19,1595.337373371582,1603.5250556427918,0.2,1603.5250556427918,0.2
+Gold prices remain stable despite central bank policies,neutral,0,2020-06-20,1592.9606202219047,1602.652120551476,0.1,1602.652120551476,0.1
+Investors are worried about gold due to interest rate changes,negative,-1,2020-06-21,1587.1273916528064,1600.7332445766588,0.1,1600.7332445766588,0.1
+Selling pressure reduces gold value because of global tensions,negative,-1,2020-06-22,1585.8769732298726,1598.7680188378988,-0.1,1598.7680188378988,-0.1
+Gold prices are falling because of market volatility,negative,-1,2020-06-23,1581.8696500740878,1595.8705984013538,-0.2,1595.8705984013538,-0.2
+No major movement in gold prices because of investor sentiment,neutral,0,2020-06-24,1586.0543599142802,1593.0986748066505,-0.2,1593.0986748066505,-0.2
+Gold demand is decreasing amid economic uncertainty,negative,-1,2020-06-25,1581.1607304483846,1590.5278297049665,-0.4,1590.5278297049665,-0.4
+Gold is gaining value as stock market fluctuations improves,positive,1,2020-06-26,1583.6119130170896,1589.06654832553,-0.3,1589.06654832553,-0.3
+Gold prices are falling because of global tensions,negative,-1,2020-06-27,1582.2341617078791,1587.4825657620752,-0.4,1587.4825657620752,-0.4
+Gold prices are falling because of weak currency,negative,-1,2020-06-28,1584.0200219092878,1586.0253195547175,-0.4,1586.0253195547175,-0.4
+Gold market weakens as global tensions declines,negative,-1,2020-06-29,1584.5764484381946,1584.949227061379,-0.6,1584.949227061379,-0.6
+Gold demand is decreasing amid geopolitical risks,negative,-1,2020-06-30,1583.3652958232824,1583.9896946215165,-0.7,1583.9896946215165,-0.7
+Gold demand is decreasing amid investor sentiment,negative,-1,2020-07-01,1593.5011974545164,1584.6270752016876,-0.7,1584.6270752016876,-0.7
+Selling pressure reduces gold value because of geopolitical risks,negative,-1,2020-07-02,1593.7548406753936,1585.4148619462396,-0.7,1585.4148619462396,-0.7
+Gold remains unchanged in light of inflation,neutral,0,2020-07-03,1592.9004558669774,1586.5179425255287,-0.6,1586.5179425255287,-0.6
+Gold demand is decreasing amid strong dollar,negative,-1,2020-07-04,1595.4611007048768,1587.4586166045883,-0.7,1587.4586166045883,-0.7
+Gold remains unchanged in light of central bank policies,neutral,0,2020-07-05,1593.4013268282356,1588.6826762425733,-0.6,1588.6826762425733,-0.6
+Gold demand is increasing amid geopolitical risks,positive,1,2020-07-06,1586.587770414864,1588.9802619823508,-0.6,1588.9802619823508,-0.6
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2020-07-07,1582.1480992308882,1588.9716557346514,-0.4,1588.9716557346514,-0.4
+Gold prices remain stable despite weak currency,neutral,0,2020-07-08,1582.2952637254375,1588.799179916267,-0.3,1588.799179916267,-0.3
+No major movement in gold prices because of economic uncertainty,neutral,0,2020-07-09,1589.4871635322615,1589.2902514256734,-0.2,1589.2902514256734,-0.2
+Gold prices are rising due to global tensions,positive,1,2020-07-10,1584.0987331285014,1589.3635951561953,0.0,1589.3635951561953,0.0
+Gold market weakens as inflation declines,negative,-1,2020-07-11,1577.8020000602771,1587.7936754167713,0.0,1587.7936754167713,0.0
+Gold market weakens as economic uncertainty declines,negative,-1,2020-07-12,1580.6993144066294,1586.488122789895,0.0,1586.488122789895,0.0
+Gold demand is increasing amid inflation,positive,1,2020-07-13,1580.8846242841837,1585.2865396316154,0.1,1585.2865396316154,0.1
+Gold is gaining value as central bank policies improves,positive,1,2020-07-14,1577.6670891277013,1583.5071384738978,0.3,1583.5071384738978,0.3
+No major movement in gold prices because of investor sentiment,neutral,0,2020-07-15,1580.7026203321811,1582.2372678242923,0.3,1582.2372678242923,0.3
+Gold prices are rising due to geopolitical risks,positive,1,2020-07-16,1588.7064031618402,1582.4491310989902,0.3,1582.4491310989902,0.3
+Strong buying interest pushes gold higher due to market volatility,positive,1,2020-07-17,1588.420096962558,1583.076330872157,0.3,1583.076330872157,0.3
+Gold market shows little change amid market volatility,neutral,0,2020-07-18,1585.4025761021371,1583.3870621098272,0.3,1583.3870621098272,0.3
+Gold prices are falling because of interest rate changes,negative,-1,2020-07-19,1584.511002885646,1582.8894460451654,0.2,1582.8894460451654,0.2
+Gold prices are falling because of weak currency,negative,-1,2020-07-20,1588.4292451719148,1583.3224972495068,0.0,1583.3224972495068,0.0
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2020-07-21,1587.6023994929358,1584.302537192773,0.2,1584.302537192773,0.2
+No major movement in gold prices because of global tensions,neutral,0,2020-07-22,1593.0479191095058,1585.5373976630603,0.3,1585.5373976630603,0.3
+Investors are optimistic about gold because of weak currency,positive,1,2020-07-23,1591.049124912823,1586.5538477259242,0.3,1586.5538477259242,0.3
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2020-07-24,1584.2319570129391,1587.2103345144485,0.1,1587.2103345144485,0.1
+Gold remains unchanged in light of geopolitical risks,neutral,0,2020-07-25,1586.4803275496845,1587.7881052361984,0.1,1587.7881052361984,0.1
+Gold is gaining value as central bank policies improves,positive,1,2020-07-26,1575.318161894223,1586.4492811094367,0.1,1586.4492811094367,0.1
+Gold prices remain stable despite weak currency,neutral,0,2020-07-27,1579.9802803736536,1585.6052994505462,0.0,1585.6052994505462,0.0
+No major movement in gold prices because of stock market fluctuations,neutral,0,2020-07-28,1580.9416996644657,1585.159211806779,0.0,1585.159211806779,0.0
+Gold is trading sideways due to market volatility,neutral,0,2020-07-29,1578.4444233971835,1584.5525538579327,0.1,1584.5525538579327,0.1
+Investors are optimistic about gold because of global tensions,positive,1,2020-07-30,1574.493693338614,1583.1589986746026,0.3,1583.1589986746026,0.3
+Gold market weakens as market volatility declines,negative,-1,2020-07-31,1565.7886022567552,1580.9776189509846,0.1,1580.9776189509846,0.1
+Selling pressure reduces gold value because of strong dollar,negative,-1,2020-08-01,1564.6246018090676,1578.1352872209409,0.0,1578.1352872209409,0.0
+Selling pressure reduces gold value because of global tensions,negative,-1,2020-08-02,1571.846577022526,1576.2150324319114,-0.2,1576.2150324319114,-0.2
+Investors are worried about gold due to stock market fluctuations,negative,-1,2020-08-03,1571.7688199600927,1574.9687187266263,-0.2,1574.9687187266263,-0.2
+Gold market weakens as stock market fluctuations declines,negative,-1,2020-08-04,1570.4128377700015,1573.3619697486583,-0.3,1573.3619697486583,-0.3
+Gold demand is decreasing amid economic uncertainty,negative,-1,2020-08-05,1568.671803119797,1572.6973338712155,-0.5,1572.6973338712155,-0.5
+Gold prices are falling because of economic uncertainty,negative,-1,2020-08-06,1575.6929929085184,1572.2686051247024,-0.6,1572.2686051247024,-0.6
+Gold demand is increasing amid stock market fluctuations,positive,1,2020-08-07,1578.6752462735992,1572.0419597856155,-0.5,1572.0419597856155,-0.5
+Gold remains unchanged in light of global tensions,neutral,0,2020-08-08,1580.7158637093114,1572.2691038168282,-0.5,1572.2691038168282,-0.5
+Gold demand is decreasing amid global tensions,negative,-1,2020-08-09,1583.6632547631102,1573.1860599592778,-0.7,1573.1860599592778,-0.7
+Gold market shows little change amid central bank policies,neutral,0,2020-08-10,1593.1685532713316,1575.9240550607356,-0.6,1575.9240550607356,-0.6
+Strong buying interest pushes gold higher due to inflation,positive,1,2020-08-11,1595.3640938486417,1578.998004264693,-0.4,1578.998004264693,-0.4
+Gold prices are rising due to weak currency,positive,1,2020-08-12,1602.7360400049124,1582.0869505629316,-0.2,1582.0869505629316,-0.2
+Gold prices are rising due to central bank policies,positive,1,2020-08-13,1602.4821918761988,1585.1582877545422,0.0,1585.1582877545422,0.0
+Gold prices remain stable despite global tensions,neutral,0,2020-08-14,1604.1463096890457,1588.5316349464467,0.1,1588.5316349464467,0.1
+No major movement in gold prices because of inflation,neutral,0,2020-08-15,1608.460290891614,1592.5104837236283,0.2,1592.5104837236283,0.2
+Investors are optimistic about gold because of geopolitical risks,positive,1,2020-08-16,1606.498259717282,1595.5910104045047,0.4,1595.5910104045047,0.4
+Gold remains unchanged in light of inflation,neutral,0,2020-08-17,1604.6652893554024,1598.1900147126848,0.3,1598.1900147126848,0.3
+Gold is gaining value as geopolitical risks improves,positive,1,2020-08-18,1600.6182660939498,1600.180254951149,0.4,1600.180254951149,0.4
+Gold prices are rising due to central bank policies,positive,1,2020-08-19,1590.042447589698,1600.8181742338077,0.6,1600.8181742338077,0.6
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2020-08-20,1583.0430170036702,1599.8056206070416,0.7,1599.8056206070416,0.7
+Gold is trading sideways due to stock market fluctuations,neutral,0,2020-08-21,1578.623738380358,1598.1315850602132,0.6,1598.1315850602132,0.6
+Selling pressure reduces gold value because of weak currency,negative,-1,2020-08-22,1575.1080806188809,1595.36878912161,0.4,1595.36878912161,0.4
+Gold prices are falling because of market volatility,negative,-1,2020-08-23,1577.2754516556,1592.84811509955,0.2,1592.84811509955,0.2
+Investors are optimistic about gold because of central bank policies,positive,1,2020-08-24,1587.2721283602866,1591.160696966674,0.3,1591.160696966674,0.3
+No major movement in gold prices because of global tensions,neutral,0,2020-08-25,1590.0419188985684,1589.3188597673695,0.3,1589.3188597673695,0.3
+No major movement in gold prices because of stock market fluctuations,neutral,0,2020-08-26,1588.5605396690253,1587.525087762544,0.2,1587.525087762544,0.2
+Selling pressure reduces gold value because of central bank policies,negative,-1,2020-08-27,1581.2930266741591,1585.1878614944196,0.1,1585.1878614944196,0.1
+Investors are worried about gold due to weak currency,negative,-1,2020-08-28,1585.4276226377992,1583.6687971488043,-0.1,1583.6687971488043,-0.1
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2020-08-29,1580.42844847651,1582.7073972374858,-0.3,1582.7073972374858,-0.3
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2020-08-30,1577.5545957796517,1582.158555115084,-0.5,1582.158555115084,-0.5
+Gold demand is decreasing amid economic uncertainty,negative,-1,2020-08-31,1575.3817298224865,1581.8343542592968,-0.6,1581.8343542592968,-0.6
+Gold demand is increasing amid stock market fluctuations,positive,1,2020-09-01,1571.6672386247924,1581.490270059888,-0.4,1581.490270059888,-0.4
+Gold demand is increasing amid inflation,positive,1,2020-09-02,1576.409349256014,1581.4036598199295,-0.2,1581.4036598199295,-0.2
+Investors are worried about gold due to economic uncertainty,negative,-1,2020-09-03,1573.0292487077113,1579.979371854672,-0.4,1579.979371854672,-0.4
+Gold prices remain stable despite economic uncertainty,neutral,0,2020-09-04,1573.2046614045048,1578.2956461052656,-0.4,1578.2956461052656,-0.4
+Gold is gaining value as strong dollar improves,positive,1,2020-09-05,1574.3475844836717,1576.87435058673,-0.3,1576.87435058673,-0.3
+Investors are optimistic about gold because of strong dollar,positive,1,2020-09-06,1571.7724095435808,1575.9222888736724,-0.1,1575.9222888736724,-0.1
+Gold is trading sideways due to strong dollar,neutral,0,2020-09-07,1573.0881912183218,1574.688345731725,0.0,1574.688345731725,0.0
+Investors are worried about gold due to investor sentiment,negative,-1,2020-09-08,1571.2170196173274,1573.7672028458062,0.0,1573.7672028458062,0.0
+Gold demand is increasing amid strong dollar,positive,1,2020-09-09,1579.9183349616817,1574.003576764009,0.2,1574.003576764009,0.2
+Gold demand is decreasing amid inflation,negative,-1,2020-09-10,1574.5157388612836,1573.916977667889,0.2,1573.916977667889,0.2
+Gold is trading sideways due to economic uncertainty,neutral,0,2020-09-11,1576.4417161812398,1574.3944254235337,0.1,1574.3944254235337,0.1
+Gold prices are rising due to inflation,positive,1,2020-09-12,1579.6626985130408,1574.7197603492364,0.1,1574.7197603492364,0.1
+Gold prices remain stable despite strong dollar,neutral,0,2020-09-13,1584.1895605038253,1575.8357915288475,0.2,1575.8357915288475,0.2
+Investors are worried about gold due to central bank policies,negative,-1,2020-09-14,1571.7333035450074,1575.688655742898,0.1,1575.688655742898,0.1
+Gold remains unchanged in light of economic uncertainty,neutral,0,2020-09-15,1575.6378817670434,1575.817685471235,0.0,1575.817685471235,0.0
+No major movement in gold prices because of market volatility,neutral,0,2020-09-16,1580.033380741863,1576.6437825910634,-0.1,1576.6437825910634,-0.1
+Gold prices are rising due to inflation,positive,1,2020-09-17,1581.758782112092,1577.5108416804403,0.0,1577.5108416804403,0.0
+Gold market weakens as central bank policies declines,negative,-1,2020-09-18,1579.0095697475244,1578.29009669346,0.0,1578.29009669346,0.0
+Gold demand is increasing amid central bank policies,positive,1,2020-09-19,1576.0853961452078,1577.906802811813,0.0,1577.906802811813,0.0
+Gold prices remain stable despite geopolitical risks,neutral,0,2020-09-20,1578.3043155562093,1578.2856604813053,0.1,1578.2856604813053,0.1
+Gold demand is decreasing amid strong dollar,negative,-1,2020-09-21,1571.239237316856,1577.765412594867,0.0,1577.765412594867,0.0
+Gold prices are rising due to central bank policies,positive,1,2020-09-22,1572.0279775845815,1577.001940502021,0.0,1577.001940502021,0.0
+Gold demand is decreasing amid global tensions,negative,-1,2020-09-23,1566.164258713732,1575.1994103230115,-0.1,1575.1994103230115,-0.1
+No major movement in gold prices because of strong dollar,neutral,0,2020-09-24,1564.949121174574,1574.5209920859684,0.0,1574.5209920859684,0.0
+Gold prices remain stable despite geopolitical risks,neutral,0,2020-09-25,1560.8729234345658,1573.0444962527206,0.0,1573.0444962527206,0.0
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2020-09-26,1564.9455323280304,1571.5357114113372,0.1,1571.5357114113372,0.1
+Gold market shows little change amid strong dollar,neutral,0,2020-09-27,1573.8722691768364,1570.7470601178118,0.0,1570.7470601178118,0.0
+Gold prices remain stable despite investor sentiment,neutral,0,2020-09-28,1570.265671374089,1569.8726702804684,0.1,1569.8726702804684,0.1
+Gold prices are falling because of central bank policies,negative,-1,2020-09-29,1568.394102275744,1569.1035408935218,-0.1,1569.1035408935218,-0.1
+Gold prices are rising due to geopolitical risks,positive,1,2020-09-30,1564.8521040577225,1567.7583197436732,0.0,1567.7583197436732,0.0
+Gold prices are falling because of market volatility,negative,-1,2020-10-01,1564.889588321642,1567.123354844152,0.0,1567.123354844152,0.0
+Gold is gaining value as central bank policies improves,positive,1,2020-10-02,1570.615947481061,1566.9821518338,0.0,1566.9821518338,0.0
+Gold demand is increasing amid central bank policies,positive,1,2020-10-03,1565.8232276270471,1566.9480487251312,0.2,1566.9480487251312,0.2
+Gold prices remain stable despite geopolitical risks,neutral,0,2020-10-04,1566.4330603509634,1567.0964426427702,0.2,1567.0964426427702,0.2
+No major movement in gold prices because of global tensions,neutral,0,2020-10-05,1568.3636097323017,1567.8455112725435,0.2,1567.8455112725435,0.2
+Gold prices are falling because of global tensions,negative,-1,2020-10-06,1575.726011371696,1568.9235591769102,0.0,1568.9235591769102,0.0
+No major movement in gold prices because of stock market fluctuations,neutral,0,2020-10-07,1576.4795359645002,1569.1842858556768,0.0,1569.1842858556768,0.0
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2020-10-08,1576.0037074988852,1569.7580894681564,0.1,1569.7580894681564,0.1
+Gold prices are rising due to stock market fluctuations,positive,1,2020-10-09,1576.4351703676898,1570.5621962773507,0.3,1570.5621962773507,0.3
+Gold market weakens as economic uncertainty declines,negative,-1,2020-10-10,1573.920696764063,1571.4690555479851,0.1,1571.4690555479851,0.1
+Gold remains unchanged in light of investor sentiment,neutral,0,2020-10-11,1574.3196391598008,1572.4120606318006,0.2,1572.4120606318006,0.2
+Gold market weakens as central bank policies declines,negative,-1,2020-10-12,1574.3630310213498,1572.7867689858297,0.0,1572.7867689858297,0.0
+Gold prices are rising due to geopolitical risks,positive,1,2020-10-13,1567.3140609624538,1572.9358523193705,0.0,1572.9358523193705,0.0
+Investors are optimistic about gold because of inflation,positive,1,2020-10-14,1569.390578553971,1573.2316041396712,0.1,1573.2316041396712,0.1
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2020-10-15,1561.2408399589249,1572.5193271623334,0.2,1572.5193271623334,0.2
+Gold prices remain stable despite geopolitical risks,neutral,0,2020-10-16,1556.4294209843508,1570.589668123599,0.3,1570.589668123599,0.3
+Gold demand is decreasing amid central bank policies,negative,-1,2020-10-17,1550.243337134158,1567.9660482405648,0.2,1567.9660482405648,0.2
+Investors are worried about gold due to central bank policies,negative,-1,2020-10-18,1553.4047336665233,1565.7061508573283,0.0,1565.7061508573283,0.0
+Investors are optimistic about gold because of market volatility,positive,1,2020-10-19,1553.4819220538193,1563.410826025941,0.0,1563.410826025941,0.0
+Selling pressure reduces gold value because of inflation,negative,-1,2020-10-20,1553.562494619187,1561.3750058114538,0.0,1561.3750058114538,0.0
+Selling pressure reduces gold value because of strong dollar,negative,-1,2020-10-21,1562.77089166296,1560.2201310617695,-0.1,1560.2201310617695,-0.1
+Selling pressure reduces gold value because of market volatility,negative,-1,2020-10-22,1556.6922907967428,1558.453057039309,-0.1,1558.453057039309,-0.1
+No major movement in gold prices because of investor sentiment,neutral,0,2020-10-23,1550.9054857961933,1556.8121995226832,-0.2,1556.8121995226832,-0.2
+Gold prices are falling because of strong dollar,negative,-1,2020-10-24,1551.9537002176628,1555.0685116890522,-0.4,1555.0685116890522,-0.4
+Gold prices remain stable despite market volatility,neutral,0,2020-10-25,1554.414399944577,1554.3858676876175,-0.5,1554.3858676876175,-0.5
+Selling pressure reduces gold value because of investor sentiment,negative,-1,2020-10-26,1566.7222409834303,1555.4151496875252,-0.6,1555.4151496875252,-0.6
+Gold market shows little change amid economic uncertainty,neutral,0,2020-10-27,1563.4832257237838,1556.739138546488,-0.5,1556.739138546488,-0.5
+Gold market shows little change amid investor sentiment,neutral,0,2020-10-28,1569.36413284061,1558.3350784638967,-0.4,1558.3350784638967,-0.4
+Gold prices remain stable despite weak currency,neutral,0,2020-10-29,1572.2329559155914,1560.210181850074,-0.5,1560.210181850074,-0.5
+Gold prices are falling because of stock market fluctuations,negative,-1,2020-10-30,1578.677498462781,1562.7216822344333,-0.5,1562.7216822344333,-0.5
+Gold is trading sideways due to geopolitical risks,neutral,0,2020-10-31,1576.8497042549695,1564.129563493634,-0.4,1564.129563493634,-0.4
+Gold demand is increasing amid strong dollar,positive,1,2020-11-01,1586.6073763357776,1567.1210720475378,-0.2,1567.1210720475378,-0.2
+Investors are optimistic about gold because of global tensions,positive,1,2020-11-02,1584.2898070184915,1570.4595041697671,-0.1,1570.4595041697671,-0.1
+Gold prices are rising due to inflation,positive,1,2020-11-03,1583.1661036404455,1573.5807445120458,0.1,1573.5807445120458,0.1
+Selling pressure reduces gold value because of strong dollar,negative,-1,2020-11-04,1568.8168705058763,1575.0209915681758,0.0,1575.0209915681758,0.0
+Gold prices are rising due to market volatility,positive,1,2020-11-05,1564.1353909597606,1574.7623065658088,0.2,1574.7623065658088,0.2
+Gold demand is decreasing amid inflation,negative,-1,2020-11-06,1563.1745335942587,1574.7314373528563,0.1,1574.7314373528563,0.1
+Gold prices are rising due to investor sentiment,positive,1,2020-11-07,1559.4978150150014,1573.7448055702953,0.2,1573.7448055702953,0.2
+Gold market weakens as investor sentiment declines,negative,-1,2020-11-08,1560.10836249708,1572.532346228444,0.1,1572.532346228444,0.1
+Gold is gaining value as interest rate changes improves,positive,1,2020-11-09,1564.036213390567,1571.0682177212227,0.3,1571.0682177212227,0.3
+Gold prices remain stable despite investor sentiment,neutral,0,2020-11-10,1565.8234728287753,1569.9655945786037,0.3,1569.9655945786037,0.3
+No major movement in gold prices because of weak currency,neutral,0,2020-11-11,1573.8537694831243,1568.6902338933382,0.2,1568.6902338933382,0.2
+Gold demand is increasing amid market volatility,positive,1,2020-11-12,1577.911256973308,1568.0523788888197,0.2,1568.0523788888197,0.2
+Gold is gaining value as geopolitical risks improves,positive,1,2020-11-13,1573.708889937169,1567.106657518492,0.2,1567.106657518492,0.2
+Gold is trading sideways due to geopolitical risks,neutral,0,2020-11-14,1571.203459908783,1567.3453164587827,0.3,1567.3453164587827,0.3
+Gold market weakens as strong dollar declines,negative,-1,2020-11-15,1569.187177721971,1567.8504951350037,0.1,1567.8504951350037,0.1
+Gold is gaining value as geopolitical risks improves,positive,1,2020-11-16,1574.001813697119,1568.9332231452895,0.3,1568.9332231452895,0.3
+Gold demand is decreasing amid weak currency,negative,-1,2020-11-17,1571.7873895188984,1570.1621805956795,0.1,1570.1621805956795,0.1
+Gold is trading sideways due to market volatility,neutral,0,2020-11-18,1570.9808883264518,1571.2494331786168,0.2,1571.2494331786168,0.2
+Gold prices remain stable despite strong dollar,neutral,0,2020-11-19,1559.831970919472,1570.8290089315074,0.1,1570.8290089315074,0.1
+Gold is gaining value as weak currency improves,positive,1,2020-11-20,1560.062394925832,1570.252901141213,0.2,1570.252901141213,0.2
+No major movement in gold prices because of stock market fluctuations,neutral,0,2020-11-21,1556.0852619448506,1568.4760503873854,0.2,1568.4760503873854,0.2
+Selling pressure reduces gold value because of central bank policies,negative,-1,2020-11-22,1560.7023637245206,1566.7551610625069,0.0,1566.7551610625069,0.0
+Strong buying interest pushes gold higher due to global tensions,positive,1,2020-11-23,1562.4747625311722,1565.631748321907,0.0,1565.631748321907,0.0
+Strong buying interest pushes gold higher due to central bank policies,positive,1,2020-11-24,1561.2427409292534,1564.635676423954,0.1,1564.635676423954,0.1
+Gold demand is increasing amid economic uncertainty,positive,1,2020-11-25,1561.5400258087084,1563.870961232628,0.3,1563.870961232628,0.3
+Strong buying interest pushes gold higher due to market volatility,positive,1,2020-11-26,1555.1124278525233,1561.9820226481684,0.3,1561.9820226481684,0.3
+Gold market shows little change amid strong dollar,neutral,0,2020-11-27,1559.4967356315808,1560.7529572594365,0.4,1560.7529572594365,0.4
+Investors are optimistic about gold because of economic uncertainty,positive,1,2020-11-28,1558.4977763587842,1559.5046460626695,0.5,1559.5046460626695,0.5
+Gold market shows little change amid geopolitical risks,neutral,0,2020-11-29,1564.9955642647092,1560.0210053971934,0.5,1560.0210053971934,0.5
+Gold market weakens as economic uncertainty declines,negative,-1,2020-11-30,1567.7228378290738,1560.7870496875175,0.3,1560.7870496875175,0.3
+Selling pressure reduces gold value because of market volatility,negative,-1,2020-12-01,1561.8864481741248,1561.367168310445,0.2,1561.367168310445,0.2
+Gold market weakens as stock market fluctuations declines,negative,-1,2020-12-02,1562.690101045402,1561.5659420425332,0.2,1561.5659420425332,0.2
+Gold remains unchanged in light of market volatility,neutral,0,2020-12-03,1567.1087046396044,1562.0293362533764,0.1,1562.0293362533764,0.1
+Gold remains unchanged in light of economic uncertainty,neutral,0,2020-12-04,1569.004243637654,1562.8054865242163,0.0,1562.8054865242163,0.0
+Gold prices are rising due to interest rate changes,positive,1,2020-12-05,1572.1518039883988,1563.8666643421857,0.0,1563.8666643421857,0.0
+Gold is trading sideways due to economic uncertainty,neutral,0,2020-12-06,1578.0076399270345,1566.1561855496368,-0.1,1566.1561855496368,-0.1
+Gold demand is decreasing amid economic uncertainty,negative,-1,2020-12-07,1576.11987788319,1567.8184997747976,-0.2,1567.8184997747976,-0.2
+Gold is gaining value as inflation improves,positive,1,2020-12-08,1579.7461570256046,1569.9433378414797,-0.2,1569.9433378414797,-0.2
+Investors are optimistic about gold because of investor sentiment,positive,1,2020-12-09,1571.3533033791268,1570.579111752921,-0.1,1570.579111752921,-0.1
+Selling pressure reduces gold value because of global tensions,negative,-1,2020-12-10,1571.1070997070588,1570.91753794072,-0.1,1570.91753794072,-0.1
+Gold is gaining value as geopolitical risks improves,positive,1,2020-12-11,1575.849302913815,1572.3138234146888,0.1,1572.3138234146888,0.1
+Gold is gaining value as central bank policies improves,positive,1,2020-12-12,1574.8027530299428,1573.525088613143,0.3,1573.525088613143,0.3
+Gold market weakens as economic uncertainty declines,negative,-1,2020-12-13,1577.366885374167,1574.550906686599,0.2,1574.550906686599,0.2
+Gold prices remain stable despite central bank policies,neutral,0,2020-12-14,1582.9780988306009,1575.948292205894,0.2,1575.948292205894,0.2
+Gold remains unchanged in light of inflation,neutral,0,2020-12-15,1576.4670075087977,1576.3798125579335,0.1,1576.3798125579335,0.1
+Gold demand is decreasing amid global tensions,negative,-1,2020-12-16,1575.6801651312803,1576.1470650783583,0.0,1576.1470650783583,0.0
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2020-12-17,1572.5004285374632,1575.7851201437857,0.2,1575.7851201437857,0.2
+Selling pressure reduces gold value because of global tensions,negative,-1,2020-12-18,1567.125240821225,1574.5230285233476,0.0,1574.5230285233476,0.0
+Gold is gaining value as inflation improves,positive,1,2020-12-19,1572.9198163933577,1574.6796798247708,0.0,1574.6796798247708,0.0
+Gold is trading sideways due to interest rate changes,neutral,0,2020-12-20,1570.7537614947116,1574.6443460035362,0.1,1574.6443460035362,0.1
+No major movement in gold prices because of economic uncertainty,neutral,0,2020-12-21,1570.593930849516,1574.1188087971063,0.0,1574.1188087971063,0.0
+Gold demand is increasing amid weak currency,positive,1,2020-12-22,1571.6630489607649,1573.8048383901885,0.0,1573.8048383901885,0.0
+Gold prices are falling because of global tensions,negative,-1,2020-12-23,1569.991747745071,1573.0673246272788,0.0,1573.0673246272788,0.0
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2020-12-24,1565.4810780720193,1571.3176225514203,0.1,1571.3176225514203,0.1
+Gold market weakens as economic uncertainty declines,negative,-1,2020-12-25,1556.2360806877266,1569.2945298693137,0.0,1569.2945298693137,0.0
+Gold prices are rising due to geopolitical risks,positive,1,2020-12-26,1551.9747327124453,1566.92398662743,0.2,1566.92398662743,0.2
+Strong buying interest pushes gold higher due to market volatility,positive,1,2020-12-27,1555.9849204839124,1565.272435822075,0.2,1565.272435822075,0.2
+Gold is gaining value as geopolitical risks improves,positive,1,2020-12-28,1564.2424637926008,1564.9841581192125,0.4,1564.9841581192125,0.4
+Gold is trading sideways due to weak currency,neutral,0,2020-12-29,1566.6666093218,1564.3588374120568,0.3,1564.3588374120568,0.3
+Gold prices remain stable despite global tensions,neutral,0,2020-12-30,1567.7448785233264,1564.0579491149183,0.3,1564.0579491149183,0.3
+Gold demand is decreasing amid economic uncertainty,negative,-1,2020-12-31,1565.6069608121195,1563.5592521111787,0.2,1563.5592521111787,0.2
+Strong buying interest pushes gold higher due to inflation,positive,1,2021-01-01,1562.9024249533622,1562.6831897104382,0.2,1562.6831897104382,0.2
+No major movement in gold prices because of global tensions,neutral,0,2021-01-02,1566.418727499755,1562.3258876859068,0.3,1562.3258876859068,0.3
+Gold is trading sideways due to inflation,neutral,0,2021-01-03,1570.0871817616544,1562.7864980548704,0.2,1562.7864980548704,0.2
+Gold demand is decreasing amid economic uncertainty,negative,-1,2021-01-04,1573.8454300878973,1564.5474329948872,0.2,1564.5474329948872,0.2
+Gold remains unchanged in light of weak currency,neutral,0,2021-01-05,1572.1179130522455,1566.5617510288675,0.1,1566.5617510288675,0.1
+Gold demand is decreasing amid interest rate changes,negative,-1,2021-01-06,1578.4313851780507,1568.806397498281,-0.1,1568.806397498281,-0.1
+Gold prices are falling because of strong dollar,negative,-1,2021-01-07,1579.6831439379075,1570.350465512812,-0.3,1570.350465512812,-0.3
+Investors are optimistic about gold because of strong dollar,positive,1,2021-01-08,1571.950687245156,1570.8788733051474,-0.2,1570.8788733051474,-0.2
+Gold demand is increasing amid economic uncertainty,positive,1,2021-01-09,1573.0977984739202,1571.4141653002068,-0.1,1571.4141653002068,-0.1
+Gold market weakens as market volatility declines,negative,-1,2021-01-10,1586.154565281239,1573.4689257471186,-0.1,1573.4689257471186,-0.1
+Gold is trading sideways due to weak currency,neutral,0,2021-01-11,1594.0353340951265,1576.5822166612954,-0.2,1576.5822166612954,-0.2
+Selling pressure reduces gold value because of market volatility,negative,-1,2021-01-12,1598.873439621531,1579.8276878734728,-0.3,1579.8276878734728,-0.3
+Gold remains unchanged in light of weak currency,neutral,0,2021-01-13,1589.7479581326602,1581.7937655105734,-0.3,1581.7937655105734,-0.3
+Gold market weakens as central bank policies declines,negative,-1,2021-01-14,1590.9571964355346,1583.5049421453373,-0.3,1583.5049421453373,-0.3
+Gold prices remain stable despite central bank policies,neutral,0,2021-01-15,1592.8505645741216,1585.5782072975246,-0.3,1585.5782072975246,-0.3
+Investors are worried about gold due to geopolitical risks,negative,-1,2021-01-16,1587.775685556697,1586.5126373353894,-0.3,1586.5126373353894,-0.3
+Strong buying interest pushes gold higher due to inflation,positive,1,2021-01-17,1597.0377588822134,1588.2480988298198,-0.1,1588.2480988298198,-0.1
+Gold prices remain stable despite market volatility,neutral,0,2021-01-18,1608.3611437253487,1591.8891444778392,-0.2,1591.8891444778392,-0.2
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2021-01-19,1608.3999293457755,1595.4193575650247,-0.2,1595.4193575650247,-0.2
+Investors are optimistic about gold because of economic uncertainty,positive,1,2021-01-20,1602.3695180376194,1597.0408528406629,0.0,1597.0408528406629,0.0
+Gold is gaining value as market volatility improves,positive,1,2021-01-21,1599.812556659076,1597.6185750970578,0.1,1597.6185750970578,0.1
+Gold is trading sideways due to weak currency,neutral,0,2021-01-22,1592.7087550614035,1597.002106641045,0.2,1597.002106641045,0.2
+Gold is trading sideways due to stock market fluctuations,neutral,0,2021-01-23,1599.4108037711237,1597.9683912048913,0.2,1597.9683912048913,0.2
+Gold is trading sideways due to market volatility,neutral,0,2021-01-24,1607.1871099401333,1599.5913825553512,0.3,1599.5913825553512,0.3
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2021-01-25,1604.245137327663,1600.7308398307057,0.4,1600.7308398307057,0.4
+Gold prices are rising due to interest rate changes,positive,1,2021-01-26,1602.573775997984,1602.210648874834,0.6,1602.210648874834,0.6
+Gold remains unchanged in light of market volatility,neutral,0,2021-01-27,1604.7706080083624,1602.9839337874491,0.5,1602.9839337874491,0.5
+Gold market weakens as global tensions declines,negative,-1,2021-01-28,1596.3555573243189,1601.783375147346,0.4,1601.783375147346,0.4
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2021-01-29,1594.0484358562176,1600.34822579839,0.4,1600.34822579839,0.4
+Gold demand is decreasing amid economic uncertainty,negative,-1,2021-01-30,1600.9452853818016,1600.2058025328083,0.2,1600.2058025328083,0.2
+Gold is trading sideways due to central bank policies,neutral,0,2021-01-31,1597.9487730268147,1600.0194241695822,0.1,1600.0194241695822,0.1
+Gold is trading sideways due to investor sentiment,neutral,0,2021-02-01,1593.6825423096982,1600.1168028944116,0.1,1600.1168028944116,0.1
+Gold is gaining value as global tensions improves,positive,1,2021-02-02,1588.5710525046502,1599.0328277677645,0.2,1599.0328277677645,0.2
+Gold prices are falling because of weak currency,negative,-1,2021-02-03,1589.3769631900514,1597.251813092756,0.1,1597.251813092756,0.1
+Investors are optimistic about gold because of central bank policies,positive,1,2021-02-04,1590.1383584332111,1595.841135203311,0.1,1595.841135203311,0.1
+Gold prices remain stable despite economic uncertainty,neutral,0,2021-02-05,1598.4484664049637,1595.428604244009,0.0,1595.428604244009,0.0
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2021-02-06,1601.4170298214392,1595.0932464253167,0.0,1595.0932464253167,0.0
+Gold market shows little change amid weak currency,neutral,0,2021-02-07,1598.3356586376597,1595.2912565566508,0.1,1595.2912565566508,0.1
+Gold prices are rising due to market volatility,positive,1,2021-02-08,1588.5132360712444,1594.737736578153,0.1,1594.737736578153,0.1
+Gold market shows little change amid weak currency,neutral,0,2021-02-09,1588.441189769709,1593.4873270169442,0.2,1593.4873270169442,0.2
+Investors are worried about gold due to investor sentiment,negative,-1,2021-02-10,1587.452298377472,1592.4376795520095,0.1,1592.4376795520095,0.1
+Gold remains unchanged in light of inflation,neutral,0,2021-02-11,1585.7551808584076,1591.6449434068809,0.1,1591.6449434068809,0.1
+Strong buying interest pushes gold higher due to weak currency,positive,1,2021-02-12,1577.2315222446828,1590.510990380884,0.1,1590.510990380884,0.1
+Gold remains unchanged in light of strong dollar,neutral,0,2021-02-13,1580.5047904479006,1589.623773106669,0.2,1589.623773106669,0.2
+Gold is trading sideways due to market volatility,neutral,0,2021-02-14,1584.418772167501,1589.0518144800978,0.1,1589.0518144800978,0.1
+Gold market shows little change amid stock market fluctuations,neutral,0,2021-02-15,1590.4858197744784,1588.255549817049,0.1,1588.255549817049,0.1
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2021-02-16,1592.2088767579871,1587.3347345107045,0.0,1587.3347345107045,0.0
+Gold is gaining value as market volatility improves,positive,1,2021-02-17,1591.972676622334,1586.6984363091717,0.1,1586.6984363091717,0.1
+Gold remains unchanged in light of economic uncertainty,neutral,0,2021-02-18,1585.6734415006722,1586.4144568521144,0.0,1586.4144568521144,0.0
+Gold prices are falling because of stock market fluctuations,negative,-1,2021-02-19,1590.289695970938,1586.5993074722371,-0.1,1586.5993074722371,-0.1
+Strong buying interest pushes gold higher due to inflation,positive,1,2021-02-20,1594.81343939699,1587.3354215741892,0.1,1587.3354215741892,0.1
+Gold prices remain stable despite central bank policies,neutral,0,2021-02-21,1599.7488180866192,1588.73478529701,0.1,1588.73478529701,0.1
+Gold market shows little change amid interest rate changes,neutral,0,2021-02-22,1600.5425819305672,1591.0658912655988,0.0,1591.0658912655988,0.0
+Gold market shows little change amid stock market fluctuations,neutral,0,2021-02-23,1599.3568324538192,1592.9510954661905,0.0,1592.9510954661905,0.0
+Investors are optimistic about gold because of strong dollar,positive,1,2021-02-24,1599.5472205796343,1594.4639403074038,0.1,1594.4639403074038,0.1
+Gold market shows little change amid central bank policies,neutral,0,2021-02-25,1606.8377755392612,1596.0991358838824,0.1,1596.0991358838824,0.1
+No major movement in gold prices because of central bank policies,neutral,0,2021-02-26,1599.9999864397282,1596.8782468520562,0.2,1596.8782468520562,0.2
+Investors are worried about gold due to central bank policies,negative,-1,2021-02-27,1590.974820914577,1596.778461281281,0.0,1596.778461281281,0.0
+Gold is trading sideways due to geopolitical risks,neutral,0,2021-02-28,1597.2846479940863,1597.939581930622,0.0,1597.939581930622,0.0
+Gold prices remain stable despite inflation,neutral,0,2021-03-01,1595.0567311459486,1598.4162854481233,0.1,1598.4162854481233,0.1
+Strong buying interest pushes gold higher due to inflation,positive,1,2021-03-02,1593.0066126912466,1598.2356027775488,0.1,1598.2356027775488,0.1
+Gold market shows little change amid inflation,neutral,0,2021-03-03,1596.2782885199708,1597.888549820884,0.1,1597.888549820884,0.1
+Gold prices remain stable despite interest rate changes,neutral,0,2021-03-04,1592.0897342543474,1597.043265053262,0.1,1597.043265053262,0.1
+No major movement in gold prices because of investor sentiment,neutral,0,2021-03-05,1587.744543297184,1595.8820361375986,0.1,1595.8820361375986,0.1
+Investors are worried about gold due to economic uncertainty,negative,-1,2021-03-06,1584.9843224539677,1594.425746325032,-0.1,1594.425746325032,-0.1
+Gold prices are rising due to stock market fluctuations,positive,1,2021-03-07,1591.238402911486,1592.8658090622544,0.0,1592.8658090622544,0.0
+Gold prices remain stable despite interest rate changes,neutral,0,2021-03-08,1589.7138984132312,1591.8372002596047,0.0,1591.8372002596047,0.0
+Gold demand is decreasing amid interest rate changes,negative,-1,2021-03-09,1587.638534640561,1591.5035716322031,0.0,1591.5035716322031,0.0
+Gold prices are rising due to geopolitical risks,positive,1,2021-03-10,1587.0106611609508,1590.4761729488894,0.1,1590.4761729488894,0.1
+Gold demand is decreasing amid central bank policies,negative,-1,2021-03-11,1589.177674546123,1589.8882672889067,0.0,1589.8882672889067,0.0
+Gold demand is decreasing amid central bank policies,negative,-1,2021-03-12,1590.7234138521378,1589.6599474049958,-0.2,1589.6599474049958,-0.2
+Gold demand is increasing amid strong dollar,positive,1,2021-03-13,1586.595873318808,1588.69170588488,-0.1,1588.69170588488,-0.1
+Gold market weakens as inflation declines,negative,-1,2021-03-14,1590.9508594645467,1588.5778184058995,-0.2,1588.5778184058995,-0.2
+Gold prices are falling because of economic uncertainty,negative,-1,2021-03-15,1586.5625240255424,1588.4596164787354,-0.3,1588.4596164787354,-0.3
+Gold prices remain stable despite global tensions,neutral,0,2021-03-16,1589.5676418910114,1588.9179484224398,-0.2,1588.9179484224398,-0.2
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2021-03-17,1591.7651116621096,1588.9706192975025,-0.4,1588.9706192975025,-0.4
+Gold demand is increasing amid stock market fluctuations,positive,1,2021-03-18,1587.2347020065813,1588.7226996568374,-0.3,1588.7226996568374,-0.3
+Gold prices remain stable despite strong dollar,neutral,0,2021-03-19,1581.4677756747965,1588.1056237602606,-0.2,1588.1056237602606,-0.2
+Gold remains unchanged in light of geopolitical risks,neutral,0,2021-03-20,1582.5168945866913,1587.6562471028349,-0.3,1587.6562471028349,-0.3
+Gold market weakens as interest rate changes declines,negative,-1,2021-03-21,1587.829106634165,1587.5213903116392,-0.3,1587.5213903116392,-0.3
+Investors are optimistic about gold because of global tensions,positive,1,2021-03-22,1585.592208522669,1587.0082697786922,-0.1,1587.0082697786922,-0.1
+Gold market weakens as weak currency declines,negative,-1,2021-03-23,1583.6351977141,1586.7122022182214,-0.3,1586.7122022182214,-0.3
+Gold prices are falling because of economic uncertainty,negative,-1,2021-03-24,1583.701766201374,1585.987292891904,-0.3,1585.987292891904,-0.3
+Gold prices remain stable despite stock market fluctuations,neutral,0,2021-03-25,1581.5788210879748,1585.4889225981474,-0.2,1585.4889225981474,-0.2
+Investors are worried about gold due to global tensions,negative,-1,2021-03-26,1580.3304029998376,1584.56519870903,-0.3,1584.56519870903,-0.3
+Gold remains unchanged in light of inflation,neutral,0,2021-03-27,1582.1243925976105,1583.60112680258,-0.2,1583.60112680258,-0.2
+Gold is gaining value as stock market fluctuations improves,positive,1,2021-03-28,1586.721336199778,1583.5497902218997,-0.2,1583.5497902218997,-0.2
+Gold is gaining value as inflation improves,positive,1,2021-03-29,1587.8220955285292,1584.185222207273,-0.1,1584.185222207273,-0.1
+Investors are optimistic about gold because of economic uncertainty,positive,1,2021-03-30,1584.9312934453496,1584.426662093139,0.0,1584.426662093139,0.0
+Gold is trading sideways due to market volatility,neutral,0,2021-03-31,1581.8060787739269,1583.824359307115,0.1,1583.824359307115,0.1
+No major movement in gold prices because of investor sentiment,neutral,0,2021-04-01,1578.9427530097944,1583.1594137558277,0.0,1583.1594137558277,0.0
+Gold prices are falling because of central bank policies,negative,-1,2021-04-02,1574.9416765039011,1582.2900616348074,0.0,1582.2900616348074,0.0
+Investors are optimistic about gold because of geopolitical risks,positive,1,2021-04-03,1575.6250641345473,1581.4823914281249,0.2,1581.4823914281249,0.2
+Gold is gaining value as weak currency improves,positive,1,2021-04-04,1576.2058094036825,1580.945090259696,0.3,1580.945090259696,0.3
+Selling pressure reduces gold value because of inflation,negative,-1,2021-04-05,1574.983944989072,1580.4104444586192,0.3,1580.4104444586192,0.3
+No major movement in gold prices because of economic uncertainty,neutral,0,2021-04-06,1579.746779618223,1580.1726831606804,0.3,1580.1726831606804,0.3
+Gold market weakens as central bank policies declines,negative,-1,2021-04-07,1580.813106682613,1579.581860208964,0.1,1579.581860208964,0.1
+Investors are worried about gold due to interest rate changes,negative,-1,2021-04-08,1581.2739991848628,1578.9270505745972,-0.1,1578.9270505745972,-0.1
+Gold market shows little change amid investor sentiment,neutral,0,2021-04-09,1578.6501127706676,1578.298932507129,-0.2,1578.298932507129,-0.2
+Gold is trading sideways due to geopolitical risks,neutral,0,2021-04-10,1578.0940563546033,1577.9277302651967,-0.2,1577.9277302651967,-0.2
+Gold market weakens as economic uncertainty declines,negative,-1,2021-04-11,1582.1218346420585,1578.245638428423,-0.3,1578.245638428423,-0.3
+Gold market shows little change amid stock market fluctuations,neutral,0,2021-04-12,1581.6909863730086,1578.9205694153338,-0.2,1578.9205694153338,-0.2
+Gold is gaining value as market volatility improves,positive,1,2021-04-13,1582.8098208727083,1579.63904508915,-0.2,1579.63904508915,-0.2
+Gold prices are rising due to strong dollar,positive,1,2021-04-14,1581.6950186892775,1580.1879660177094,-0.2,1580.1879660177094,-0.2
+Strong buying interest pushes gold higher due to weak currency,positive,1,2021-04-15,1591.7739745425072,1581.866968973053,0.0,1581.866968973053,0.0
+Investors are worried about gold due to weak currency,negative,-1,2021-04-16,1587.1479155235224,1582.607082563583,-0.1,1582.607082563583,-0.1
+Selling pressure reduces gold value because of strong dollar,negative,-1,2021-04-17,1588.2071954712303,1583.3464914424446,-0.1,1583.3464914424446,-0.1
+Gold prices are rising due to market volatility,positive,1,2021-04-18,1599.990782546249,1585.2181697785834,0.1,1585.2181697785834,0.1
+Strong buying interest pushes gold higher due to global tensions,positive,1,2021-04-19,1599.402636699666,1587.2934221714831,0.2,1587.2934221714831,0.2
+Investors are optimistic about gold because of inflation,positive,1,2021-04-20,1605.285338816837,1590.0125504177065,0.3,1590.0125504177065,0.3
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2021-04-21,1613.4776384854167,1593.1481308020425,0.4,1593.1481308020425,0.4
+Gold market weakens as interest rate changes declines,negative,-1,2021-04-22,1609.245203418155,1595.903552506557,0.3,1595.903552506557,0.3
+No major movement in gold prices because of inflation,neutral,0,2021-04-23,1612.7130577408595,1598.893876193372,0.2,1598.893876193372,0.2
+Gold prices are rising due to market volatility,positive,1,2021-04-24,1618.2161098469303,1602.5459853091374,0.2,1602.5459853091374,0.2
+Investors are optimistic about gold because of weak currency,positive,1,2021-04-25,1616.433803157685,1605.011968170655,0.2,1605.011968170655,0.2
+Gold prices remain stable despite stock market fluctuations,neutral,0,2021-04-26,1620.1150910394306,1608.308685722246,0.3,1608.308685722246,0.3
+Gold prices are falling because of economic uncertainty,negative,-1,2021-04-27,1606.5929304025738,1610.1472592153802,0.3,1610.1472592153802,0.3
+Selling pressure reduces gold value because of global tensions,negative,-1,2021-04-28,1611.733047816413,1611.3214857423968,0.1,1611.3214857423968,0.1
+Gold demand is decreasing amid global tensions,negative,-1,2021-04-29,1601.2017313962756,1611.5013952120576,-0.1,1611.5013952120576,-0.1
+Gold is gaining value as market volatility improves,positive,1,2021-04-30,1612.8968204831233,1612.2625433786864,-0.1,1612.2625433786864,-0.1
+Gold remains unchanged in light of central bank policies,neutral,0,2021-05-01,1606.276143408472,1611.5423938709916,-0.1,1611.5423938709916,-0.1
+Gold demand is decreasing amid strong dollar,negative,-1,2021-05-02,1605.4801587698753,1611.1658894061638,-0.1,1611.1658894061638,-0.1
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2021-05-03,1599.7295293675852,1609.8675365688364,0.0,1609.8675365688364,0.0
+Gold remains unchanged in light of strong dollar,neutral,0,2021-05-04,1602.770721153376,1608.322997699481,-0.1,1608.322997699481,-0.1
+Investors are worried about gold due to strong dollar,negative,-1,2021-05-05,1610.2419877129296,1607.7038161550054,-0.3,1607.7038161550054,-0.3
+Gold is trading sideways due to strong dollar,neutral,0,2021-05-06,1603.5392473428894,1606.0462317853512,-0.3,1606.0462317853512,-0.3
+Gold is gaining value as market volatility improves,positive,1,2021-05-07,1608.9310511466367,1606.2800438597576,-0.1,1606.2800438597576,-0.1
+Investors are worried about gold due to weak currency,negative,-1,2021-05-08,1607.961423374859,1605.9028814156022,-0.1,1605.9028814156022,-0.1
+Gold prices are falling because of market volatility,negative,-1,2021-05-09,1613.2340475974172,1607.1061130357164,-0.1,1607.1061130357164,-0.1
+Gold prices are falling because of geopolitical risks,negative,-1,2021-05-10,1604.5872192593115,1606.2751529133352,-0.3,1606.2751529133352,-0.3
+Gold prices are rising due to inflation,positive,1,2021-05-11,1606.5220804451285,1606.299746617001,-0.2,1606.299746617001,-0.2
+Gold prices remain stable despite stock market fluctuations,neutral,0,2021-05-12,1610.3327581899837,1606.7850065590117,-0.1,1606.7850065590117,-0.1
+Gold is gaining value as stock market fluctuations improves,positive,1,2021-05-13,1617.9697969912206,1608.6090333213754,-0.1,1608.6090333213754,-0.1
+Selling pressure reduces gold value because of strong dollar,negative,-1,2021-05-14,1609.9755764089325,1609.3295188469308,-0.2,1609.3295188469308,-0.2
+Gold market weakens as inflation declines,negative,-1,2021-05-15,1612.5799752351284,1609.5633175991509,-0.2,1609.5633175991509,-0.2
+Gold prices are falling because of inflation,negative,-1,2021-05-16,1606.9469796250432,1609.904090827366,-0.3,1609.904090827366,-0.3
+Gold market shows little change amid economic uncertainty,neutral,0,2021-05-17,1611.3703857467403,1610.1480242873763,-0.4,1610.1480242873763,-0.4
+Gold market shows little change amid weak currency,neutral,0,2021-05-18,1613.240415559026,1610.6759235057932,-0.3,1610.6759235057932,-0.3
+Gold market shows little change amid interest rate changes,neutral,0,2021-05-19,1618.9475151751672,1611.2472702635682,-0.2,1611.2472702635682,-0.2
+Gold remains unchanged in light of market volatility,neutral,0,2021-05-20,1614.693716542624,1612.2579199918996,-0.1,1612.2579199918996,-0.1
+Gold demand is decreasing amid strong dollar,negative,-1,2021-05-21,1610.096408074546,1612.615352754841,-0.3,1612.615352754841,-0.3
+No major movement in gold prices because of inflation,neutral,0,2021-05-22,1607.8563265991022,1612.367709595753,-0.3,1612.367709595753,-0.3
+Gold demand is increasing amid market volatility,positive,1,2021-05-23,1600.0598725911218,1610.5767171557432,-0.3,1610.5767171557432,-0.3
+Gold remains unchanged in light of interest rate changes,neutral,0,2021-05-24,1603.9534677718905,1609.974506292039,-0.2,1609.974506292039,-0.2
+Investors are worried about gold due to strong dollar,negative,-1,2021-05-25,1605.3964171812702,1609.256150486653,-0.2,1609.256150486653,-0.2
+Gold prices are falling because of market volatility,negative,-1,2021-05-26,1599.3695113384151,1608.4984036579904,-0.2,1608.4984036579904,-0.2
+Gold is trading sideways due to market volatility,neutral,0,2021-05-27,1595.9597615361276,1606.957341236929,-0.2,1606.957341236929,-0.2
+Gold prices are falling because of weak currency,negative,-1,2021-05-28,1597.533471936759,1605.3866468747024,-0.3,1605.3866468747024,-0.3
+Gold remains unchanged in light of central bank policies,neutral,0,2021-05-29,1602.365936354132,1603.7284889925988,-0.3,1603.7284889925988,-0.3
+Selling pressure reduces gold value because of inflation,negative,-1,2021-05-30,1601.746621073202,1602.4337794456565,-0.4,1602.4337794456565,-0.4
+Gold prices remain stable despite global tensions,neutral,0,2021-05-31,1601.7145036157017,1601.5955889997722,-0.3,1601.5955889997722,-0.3
+Gold remains unchanged in light of market volatility,neutral,0,2021-06-01,1601.5862765954714,1600.9685839994092,-0.3,1600.9685839994092,-0.3
+Gold is trading sideways due to economic uncertainty,neutral,0,2021-06-02,1608.0414936394782,1601.766746104245,-0.4,1601.766746104245,-0.4
+Gold market shows little change amid central bank policies,neutral,0,2021-06-03,1602.22910839185,1601.5943101662408,-0.4,1601.5943101662408,-0.4
+Gold prices remain stable despite weak currency,neutral,0,2021-06-04,1611.939036425974,1602.2485720907111,-0.3,1602.2485720907111,-0.3
+Gold remains unchanged in light of interest rate changes,neutral,0,2021-06-05,1611.4324888967767,1603.4548698465474,-0.2,1603.4548698465474,-0.2
+Gold market weakens as strong dollar declines,negative,-1,2021-06-06,1612.0810211771802,1605.0669958106523,-0.3,1605.0669958106523,-0.3
+Gold prices are falling because of market volatility,negative,-1,2021-06-07,1602.8370185476797,1605.5973504717444,-0.3,1605.5973504717444,-0.3
+Selling pressure reduces gold value because of geopolitical risks,negative,-1,2021-06-08,1602.1380983581569,1605.574566672147,-0.4,1605.574566672147,-0.4
+No major movement in gold prices because of investor sentiment,neutral,0,2021-06-09,1600.1941705389977,1605.4193216187266,-0.3,1605.4193216187266,-0.3
+Gold demand is decreasing amid global tensions,negative,-1,2021-06-10,1594.0958470492276,1604.6574559620792,-0.4,1604.6574559620792,-0.4
+Gold prices are falling because of inflation,negative,-1,2021-06-11,1597.2410300544827,1604.2229313079802,-0.5,1604.2229313079802,-0.5
+Investors are worried about gold due to central bank policies,negative,-1,2021-06-12,1599.6810878187978,1603.3868907259125,-0.6,1603.3868907259125,-0.6
+Gold prices are falling because of geopolitical risks,negative,-1,2021-06-13,1607.2283439356258,1603.88681428029,-0.7,1603.88681428029,-0.7
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2021-06-14,1605.9534519309004,1603.2882558307824,-0.8,1603.2882558307824,-0.8
+Gold is gaining value as weak currency improves,positive,1,2021-06-15,1608.935068220591,1603.038513763164,-0.7,1603.038513763164,-0.7
+Gold prices remain stable despite inflation,neutral,0,2021-06-16,1609.2358309733804,1602.753994742784,-0.6,1602.753994742784,-0.6
+Gold prices are rising due to weak currency,positive,1,2021-06-17,1613.3556900150838,1603.8058618895243,-0.4,1603.8058618895243,-0.4
+Gold prices remain stable despite economic uncertainty,neutral,0,2021-06-18,1618.7390991862617,1605.4659619723348,-0.3,1605.4659619723348,-0.3
+Gold prices remain stable despite market volatility,neutral,0,2021-06-19,1612.2126049587257,1606.6678054143076,-0.3,1606.6678054143076,-0.3
+Investors are worried about gold due to stock market fluctuations,negative,-1,2021-06-20,1607.3709154779351,1607.9953122571785,-0.3,1607.9953122571785,-0.3
+Gold is gaining value as inflation improves,positive,1,2021-06-21,1604.7446330342736,1608.7456725551574,-0.1,1608.7456725551574,-0.1
+Gold is gaining value as economic uncertainty improves,positive,1,2021-06-22,1607.078414821905,1609.485405255468,0.1,1609.485405255468,0.1
+Gold is gaining value as stock market fluctuations improves,positive,1,2021-06-23,1598.104608636074,1608.5730317255131,0.3,1608.5730317255131,0.3
+Gold is gaining value as market volatility improves,positive,1,2021-06-24,1600.0307330271712,1607.9807598351404,0.5,1607.9807598351404,0.5
+Gold is trading sideways due to central bank policies,neutral,0,2021-06-25,1607.517693645637,1607.8390223776448,0.4,1607.8390223776448,0.4
+Gold demand is increasing amid inflation,positive,1,2021-06-26,1614.574719102573,1608.372911190564,0.5,1608.372911190564,0.5
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2021-06-27,1621.3344887827438,1609.17079106733,0.5,1609.17079106733,0.5
+Investors are optimistic about gold because of strong dollar,positive,1,2021-06-28,1616.8223668253509,1608.9791178312391,0.6,1608.9791178312391,0.6
+Investors are worried about gold due to stock market fluctuations,negative,-1,2021-06-29,1622.6694242289027,1610.024799758257,0.5,1610.024799758257,0.5
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2021-06-30,1625.0687833425636,1611.7945865447196,0.7,1611.7945865447196,0.7
+Gold prices are falling because of strong dollar,negative,-1,2021-07-01,1617.214930805031,1613.0416163217951,0.5,1613.0416163217951,0.5
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2021-07-02,1619.5001920613315,1614.283794045738,0.5,1614.283794045738,0.5
+Gold remains unchanged in light of interest rate changes,neutral,0,2021-07-03,1621.7197108053797,1616.6453042626686,0.4,1616.6453042626686,0.4
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2021-07-04,1619.4284756948264,1618.585078529434,0.4,1618.585078529434,0.4
+Gold remains unchanged in light of geopolitical risks,neutral,0,2021-07-05,1617.0812148788907,1619.5414306527591,0.4,1619.5414306527591,0.4
+Gold prices remain stable despite market volatility,neutral,0,2021-07-06,1610.3707046052746,1619.1210292030296,0.3,1619.1210292030296,0.3
+Gold market weakens as stock market fluctuations declines,negative,-1,2021-07-07,1619.292916973214,1618.9168720220764,0.1,1618.9168720220764,0.1
+Gold is gaining value as market volatility improves,positive,1,2021-07-08,1615.5358306218343,1618.7882184017249,0.1,1618.7882184017249,0.1
+Gold prices remain stable despite inflation,neutral,0,2021-07-09,1621.8922565755693,1618.7105016363914,0.2,1618.7105016363914,0.2
+Gold remains unchanged in light of strong dollar,neutral,0,2021-07-10,1621.119857016019,1618.3156090037369,0.1,1618.3156090037369,0.1
+Gold remains unchanged in light of market volatility,neutral,0,2021-07-11,1619.70984281254,1618.565100204488,0.2,1618.565100204488,0.2
+Selling pressure reduces gold value because of market volatility,negative,-1,2021-07-12,1616.8571717694267,1618.3007981752974,0.0,1618.3007981752974,0.0
+Gold is gaining value as investor sentiment improves,positive,1,2021-07-13,1617.488022276201,1617.8776293223796,0.1,1617.8776293223796,0.1
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2021-07-14,1615.7225977091462,1617.5070415238115,0.1,1617.5070415238115,0.1
+Gold remains unchanged in light of global tensions,neutral,0,2021-07-15,1618.2900899860422,1617.627929034527,0.1,1617.627929034527,0.1
+No major movement in gold prices because of geopolitical risks,neutral,0,2021-07-16,1625.5046070223266,1619.1413192762318,0.1,1619.1413192762318,0.1
+Gold is gaining value as strong dollar improves,positive,1,2021-07-17,1622.554962761811,1619.4675238550917,0.3,1619.4675238550917,0.3
+No major movement in gold prices because of inflation,neutral,0,2021-07-18,1623.1285744343288,1620.2267982363412,0.2,1620.2267982363412,0.2
+Strong buying interest pushes gold higher due to weak currency,positive,1,2021-07-19,1612.446682995241,1619.282240878308,0.3,1619.282240878308,0.3
+Gold prices remain stable despite strong dollar,neutral,0,2021-07-20,1615.025806159793,1618.6728357926856,0.3,1618.6728357926856,0.3
+Strong buying interest pushes gold higher due to weak currency,positive,1,2021-07-21,1614.6752722118931,1618.1693787326208,0.4,1618.1693787326208,0.4
+No major movement in gold prices because of geopolitical risks,neutral,0,2021-07-22,1610.421337638101,1617.5257953194882,0.5,1617.5257953194882,0.5
+Gold is trading sideways due to inflation,neutral,0,2021-07-23,1612.8319154324472,1617.060184635113,0.4,1617.060184635113,0.4
+Gold market weakens as central bank policies declines,negative,-1,2021-07-24,1603.260327541486,1615.813957618347,0.2,1615.813957618347,0.2
+Selling pressure reduces gold value because of central bank policies,negative,-1,2021-07-25,1610.9082986432643,1615.0757784840694,0.1,1615.0757784840694,0.1
+Gold prices are rising due to stock market fluctuations,positive,1,2021-07-26,1612.284397443997,1613.7537575262363,0.2,1613.7537575262363,0.2
+No major movement in gold prices because of investor sentiment,neutral,0,2021-07-27,1618.875933255163,1613.3858545755716,0.1,1613.3858545755716,0.1
+Gold demand is decreasing amid interest rate changes,negative,-1,2021-07-28,1618.030111757432,1612.876008307882,0.0,1612.876008307882,0.0
+Gold market weakens as central bank policies declines,negative,-1,2021-07-29,1617.6522175588502,1613.396561764243,-0.2,1613.396561764243,-0.2
+Gold demand is decreasing amid weak currency,negative,-1,2021-07-30,1617.4441726909354,1613.638398417357,-0.3,1613.638398417357,-0.3
+Gold demand is increasing amid central bank policies,positive,1,2021-07-31,1616.2945203901022,1613.800323235178,-0.3,1613.800323235178,-0.3
+Strong buying interest pushes gold higher due to interest rate changes,positive,1,2021-08-01,1620.262239698388,1614.7844134412069,-0.2,1614.7844134412069,-0.2
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2021-08-02,1613.6552140473177,1614.8667433026935,-0.1,1614.8667433026935,-0.1
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2021-08-03,1621.450921634102,1616.6858027119551,0.1,1616.6858027119551,0.1
+Gold is gaining value as interest rate changes improves,positive,1,2021-08-04,1620.9357885781744,1617.6885517054463,0.3,1617.6885517054463,0.3
+Gold demand is decreasing amid weak currency,negative,-1,2021-08-05,1623.3271008870065,1618.792822049747,0.1,1618.792822049747,0.1
+No major movement in gold prices because of strong dollar,neutral,0,2021-08-06,1637.2640406664627,1620.631632790877,0.1,1620.631632790877,0.1
+Gold remains unchanged in light of investor sentiment,neutral,0,2021-08-07,1637.276985364391,1622.556320151573,0.2,1622.556320151573,0.2
+Gold demand is increasing amid economic uncertainty,positive,1,2021-08-08,1640.934204402928,1624.8845188359803,0.4,1624.8845188359803,0.4
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2021-08-09,1640.2577979720252,1627.1658813640895,0.6,1627.1658813640895,0.6
+Gold remains unchanged in light of market volatility,neutral,0,2021-08-10,1641.5370739110094,1629.6901367161804,0.5,1629.6901367161804,0.5
+Selling pressure reduces gold value because of investor sentiment,negative,-1,2021-08-11,1643.321835318621,1631.9960962782038,0.3,1631.9960962782038,0.3
+Investors are optimistic about gold because of global tensions,positive,1,2021-08-12,1640.8048257028777,1634.7110574437595,0.3,1634.7110574437595,0.3
+Gold is gaining value as strong dollar improves,positive,1,2021-08-13,1640.5649659675607,1636.6224618771057,0.3,1636.6224618771057,0.3
+Investors are worried about gold due to weak currency,negative,-1,2021-08-14,1647.0075718491014,1639.2296402041982,0.1,1639.2296402041982,0.1
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2021-08-15,1654.6565539561468,1642.3625855111125,0.3,1642.3625855111125,0.3
+Gold is trading sideways due to central bank policies,neutral,0,2021-08-16,1654.489557377729,1644.0851371822391,0.3,1644.0851371822391,0.3
+Strong buying interest pushes gold higher due to weak currency,positive,1,2021-08-17,1650.411995320433,1645.3986381778432,0.4,1645.3986381778432,0.4
+Gold remains unchanged in light of interest rate changes,neutral,0,2021-08-18,1645.162988275899,1645.8215165651404,0.3,1645.8215165651404,0.3
+Gold prices are rising due to weak currency,positive,1,2021-08-19,1640.3172827890114,1645.8274650468388,0.3,1645.8274650468388,0.3
+Strong buying interest pushes gold higher due to market volatility,positive,1,2021-08-20,1637.884833248852,1645.462240980623,0.4,1645.462240980623,0.4
+Gold prices are falling because of weak currency,negative,-1,2021-08-21,1631.586896179649,1644.288747066726,0.4,1644.288747066726,0.4
+Gold is gaining value as strong dollar improves,positive,1,2021-08-22,1624.8196307273877,1642.6902275691768,0.4,1642.6902275691768,0.4
+Strong buying interest pushes gold higher due to central bank policies,positive,1,2021-08-23,1628.050289457911,1641.4387599182123,0.4,1641.4387599182123,0.4
+Gold remains unchanged in light of global tensions,neutral,0,2021-08-24,1631.780231333682,1639.9160258666702,0.5,1639.9160258666702,0.5
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2021-08-25,1636.396802663351,1638.0900507373906,0.5,1638.0900507373906,0.5
+Gold prices remain stable despite central bank policies,neutral,0,2021-08-26,1636.5916758289716,1636.300262582515,0.5,1636.300262582515,0.5
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2021-08-27,1644.7520780815469,1635.734270858626,0.5,1635.734270858626,0.5
+Selling pressure reduces gold value because of global tensions,negative,-1,2021-08-28,1646.2638067596206,1635.8443527069985,0.4,1635.8443527069985,0.4
+Gold remains unchanged in light of central bank policies,neutral,0,2021-08-29,1650.4447340790118,1636.8570978359985,0.3,1636.8570978359985,0.3
+Gold is trading sideways due to central bank policies,neutral,0,2021-08-30,1644.837628593442,1637.5523773704574,0.2,1637.5523773704574,0.2
+Selling pressure reduces gold value because of inflation,negative,-1,2021-08-31,1647.339576103703,1639.1276453628627,0.2,1639.1276453628627,0.2
+Gold market shows little change amid stock market fluctuations,neutral,0,2021-09-01,1647.501626823068,1641.395844972431,0.1,1641.395844972431,0.1
+Gold prices are rising due to central bank policies,positive,1,2021-09-02,1650.0249442933025,1643.59331045597,0.1,1643.59331045597,0.1
+Investors are optimistic about gold because of investor sentiment,positive,1,2021-09-03,1648.5762130392056,1645.2729086265222,0.2,1645.2729086265222,0.2
+Gold market shows little change amid central bank policies,neutral,0,2021-09-04,1647.1443148284982,1646.347659843037,0.1,1646.347659843037,0.1
+Gold is gaining value as strong dollar improves,positive,1,2021-09-05,1646.8964078488834,1647.378133045028,0.2,1647.378133045028,0.2
+No major movement in gold prices because of global tensions,neutral,0,2021-09-06,1651.2994544486305,1648.0328706817368,0.1,1648.0328706817368,0.1
+Selling pressure reduces gold value because of global tensions,negative,-1,2021-09-07,1646.5325282942265,1648.059742835197,0.1,1648.059742835197,0.1
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2021-09-08,1649.0357296560128,1647.9188423928972,0.2,1647.9188423928972,0.2
+Gold prices are falling because of stock market fluctuations,negative,-1,2021-09-09,1648.8682336018112,1648.3219028937342,0.1,1648.3219028937342,0.1
+No major movement in gold prices because of market volatility,neutral,0,2021-09-10,1650.4457121836642,1648.6325165017304,0.2,1648.6325165017304,0.2
+Gold prices are falling because of investor sentiment,negative,-1,2021-09-11,1633.5028436616196,1647.2326381855855,0.1,1647.2326381855855,0.1
+Gold is trading sideways due to strong dollar,neutral,0,2021-09-12,1627.6328497761983,1644.9934287338751,0.0,1644.9934287338751,0.0
+Gold prices remain stable despite investor sentiment,neutral,0,2021-09-13,1623.4171767181865,1642.4775251017732,-0.1,1642.4775251017732,-0.1
+Gold is trading sideways due to investor sentiment,neutral,0,2021-09-14,1616.7144828788178,1639.434541906805,-0.1,1639.434541906805,-0.1
+No major movement in gold prices because of investor sentiment,neutral,0,2021-09-15,1616.5396391312718,1636.398865035044,-0.2,1636.398865035044,-0.2
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2021-09-16,1612.5531707371028,1632.524236663891,-0.2,1632.524236663891,-0.2
+Gold prices remain stable despite inflation,neutral,0,2021-09-17,1617.7250893609762,1629.643492770566,-0.1,1629.643492770566,-0.1
+Gold demand is decreasing amid central bank policies,negative,-1,2021-09-18,1622.423332352591,1626.982253040224,-0.3,1626.982253040224,-0.3
+No major movement in gold prices because of stock market fluctuations,neutral,0,2021-09-19,1621.3699629544124,1624.232425975484,-0.2,1624.232425975484,-0.2
+Gold remains unchanged in light of market volatility,neutral,0,2021-09-20,1625.001253809481,1621.687980138066,-0.2,1621.687980138066,-0.2
+Strong buying interest pushes gold higher due to global tensions,positive,1,2021-09-21,1620.9418456950696,1620.4318803414108,0.0,1620.4318803414108,0.0
+Gold prices are falling because of global tensions,negative,-1,2021-09-22,1617.9551643640011,1619.4641118001912,-0.1,1619.4641118001912,-0.1
+Gold market weakens as interest rate changes declines,negative,-1,2021-09-23,1620.515622912111,1619.1739564195836,-0.2,1619.1739564195836,-0.2
+Gold prices are rising due to central bank policies,positive,1,2021-09-24,1626.919667709166,1620.1944749026184,-0.1,1620.1944749026184,-0.1
+Gold demand is increasing amid inflation,positive,1,2021-09-25,1613.1093614566855,1619.8514471351598,0.0,1619.8514471351598,0.0
+Gold demand is increasing amid global tensions,positive,1,2021-09-26,1618.174271631983,1620.4135572246475,0.1,1620.4135572246475,0.1
+Gold demand is decreasing amid weak currency,negative,-1,2021-09-27,1615.1815299796726,1620.1592012865174,0.0,1620.1592012865174,0.0
+Gold prices remain stable despite strong dollar,neutral,0,2021-09-28,1615.1818667761845,1619.4350547288766,0.1,1619.4350547288766,0.1
+Gold prices remain stable despite market volatility,neutral,0,2021-09-29,1618.286506511164,1619.1267090845515,0.1,1619.1267090845515,0.1
+Gold demand is increasing amid central bank policies,positive,1,2021-09-30,1618.103255360077,1618.4369092396114,0.2,1618.4369092396114,0.2
+Gold market shows little change amid inflation,neutral,0,2021-10-01,1617.145432179265,1618.057267888031,0.1,1618.057267888031,0.1
+Gold prices are falling because of stock market fluctuations,negative,-1,2021-10-02,1622.4852019696543,1618.5102716485962,0.1,1618.5102716485962,0.1
+No major movement in gold prices because of strong dollar,neutral,0,2021-10-03,1619.971343032647,1618.45584366065,0.2,1618.45584366065,0.2
+Gold prices are falling because of economic uncertainty,negative,-1,2021-10-04,1626.8964398336652,1618.4535208731,0.0,1618.4535208731,0.0
+Selling pressure reduces gold value because of market volatility,negative,-1,2021-10-05,1628.95186377413,1620.037771104844,-0.2,1620.037771104844,-0.2
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2021-10-06,1632.3815535304498,1621.458499294691,-0.2,1621.458499294691,-0.2
+Gold demand is increasing amid economic uncertainty,positive,1,2021-10-07,1629.805369205607,1622.9208832172844,0.0,1622.9208832172844,0.0
+Gold demand is increasing amid economic uncertainty,positive,1,2021-10-08,1632.9678484094732,1624.6994813806134,0.1,1624.6994813806134,0.1
+Gold prices are rising due to economic uncertainty,positive,1,2021-10-09,1632.9730126470174,1626.1681319941986,0.2,1626.1681319941986,0.2
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2021-10-10,1632.5398272542284,1627.6117891836136,0.0,1627.6117891836136,0.0
+Gold is trading sideways due to strong dollar,neutral,0,2021-10-11,1631.11106815962,1629.0083527816491,0.0,1629.0083527816491,0.0
+Gold is gaining value as central bank policies improves,positive,1,2021-10-12,1627.6932505548614,1629.5291576401698,0.2,1629.5291576401698,0.2
+Investors are optimistic about gold because of strong dollar,positive,1,2021-10-13,1632.0294029193722,1630.7349636288425,0.3,1630.7349636288425,0.3
+Gold market shows little change amid weak currency,neutral,0,2021-10-14,1636.651561168129,1631.7104757622888,0.4,1631.7104757622888,0.4
+Gold is trading sideways due to weak currency,neutral,0,2021-10-15,1637.0670828318289,1632.5219976680587,0.5,1632.5219976680587,0.5
+Gold is trading sideways due to strong dollar,neutral,0,2021-10-16,1643.9010753267887,1633.6739498476925,0.4,1633.6739498476925,0.4
+Selling pressure reduces gold value because of weak currency,negative,-1,2021-10-17,1653.5059773978028,1636.044010666912,0.2,1636.044010666912,0.2
+Investors are optimistic about gold because of inflation,positive,1,2021-10-18,1657.3702278378366,1638.4842486097484,0.2,1638.4842486097484,0.2
+Investors are worried about gold due to strong dollar,negative,-1,2021-10-19,1669.9616251844238,1642.183109863489,0.0,1642.183109863489,0.0
+Gold prices are falling because of central bank policies,negative,-1,2021-10-20,1671.227684711813,1646.0518956092478,0.0,1646.0518956092478,0.0
+Investors are optimistic about gold because of interest rate changes,positive,1,2021-10-21,1667.14851297566,1649.6556400908516,0.1,1649.6556400908516,0.1
+Gold is trading sideways due to stock market fluctuations,neutral,0,2021-10-22,1665.65866799502,1653.4521818348676,0.0,1653.4521818348676,0.0
+Gold prices are rising due to weak currency,positive,1,2021-10-23,1657.179003711691,1655.9671419140996,0.0,1655.9671419140996,0.0
+Gold market shows little change amid central bank policies,neutral,0,2021-10-24,1660.1795795008354,1658.31994374737,0.0,1658.31994374737,0.0
+Gold is gaining value as economic uncertainty improves,positive,1,2021-10-25,1670.9354513703236,1661.7067806012194,0.1,1661.7067806012194,0.1
+Investors are optimistic about gold because of economic uncertainty,positive,1,2021-10-26,1676.8694543259355,1665.003618501134,0.2,1665.003618501134,0.2
+Selling pressure reduces gold value because of central bank policies,negative,-1,2021-10-27,1678.3355853569342,1667.4865792970477,0.2,1667.4865792970477,0.2
+Gold market weakens as investor sentiment declines,negative,-1,2021-10-28,1677.5766078933996,1669.5072173026035,0.0,1669.5072173026035,0.0
+Gold prices are falling because of interest rate changes,negative,-1,2021-10-29,1669.602827382846,1669.471337522446,0.0,1669.471337522446,0.0
+Gold prices remain stable despite geopolitical risks,neutral,0,2021-10-30,1673.484370184779,1669.6970060697429,0.1,1669.6970060697429,0.1
+Gold is gaining value as investor sentiment improves,positive,1,2021-10-31,1672.451528361666,1670.2273076083432,0.1,1670.2273076083432,0.1
+Gold is trading sideways due to stock market fluctuations,neutral,0,2021-11-01,1677.14762181148,1671.3762029899892,0.1,1671.3762029899892,0.1
+Investors are worried about gold due to inflation,negative,-1,2021-11-02,1672.5429874324127,1672.9126013620612,-0.1,1672.9126013620612,-0.1
+Gold is trading sideways due to central bank policies,neutral,0,2021-11-03,1670.3466880388876,1673.9293122158665,-0.1,1673.9293122158665,-0.1
+Gold prices are falling because of weak currency,negative,-1,2021-11-04,1670.9689685788326,1673.9326639367173,-0.3,1673.9326639367173,-0.3
+Gold is gaining value as central bank policies improves,positive,1,2021-11-05,1666.3479685698137,1672.8805153611052,-0.3,1672.8805153611052,-0.3
+Gold prices are falling because of geopolitical risks,negative,-1,2021-11-06,1663.100031004239,1671.3569599258358,-0.3,1671.3569599258358,-0.3
+Gold demand is increasing amid weak currency,positive,1,2021-11-07,1665.6868982145463,1670.1679889579505,-0.1,1670.1679889579505,-0.1
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2021-11-08,1664.812978496668,1669.6890040693324,0.1,1669.6890040693324,0.1
+Gold prices are falling because of global tensions,negative,-1,2021-11-09,1667.859129504252,1669.12648000128,0.0,1669.12648000128,0.0
+Investors are optimistic about gold because of market volatility,positive,1,2021-11-10,1654.4922948603164,1667.330556651145,0.0,1667.330556651145,0.0
+Gold market shows little change amid weak currency,neutral,0,2021-11-11,1660.589217333854,1665.674716203382,0.0,1665.674716203382,0.0
+Investors are optimistic about gold because of weak currency,positive,1,2021-11-12,1655.0989450340946,1663.9303119635504,0.2,1663.9303119635504,0.2
+Gold is gaining value as strong dollar improves,positive,1,2021-11-13,1654.1748276779315,1662.3131259274548,0.3,1662.3131259274548,0.3
+Gold demand is increasing amid stock market fluctuations,positive,1,2021-11-14,1653.7293266389438,1660.589161733466,0.5,1660.589161733466,0.5
+Gold market shows little change amid stock market fluctuations,neutral,0,2021-11-15,1655.101493075823,1659.464514184067,0.4,1659.464514184067,0.4
+Investors are worried about gold due to strong dollar,negative,-1,2021-11-16,1656.1492039296209,1658.769431476605,0.4,1658.769431476605,0.4
+Investors are optimistic about gold because of economic uncertainty,positive,1,2021-11-17,1649.708806304517,1657.1716222856023,0.4,1657.1716222856023,0.4
+Gold demand is decreasing amid global tensions,negative,-1,2021-11-18,1646.8259927554109,1655.3729237114762,0.2,1655.3729237114762,0.2
+Gold market shows little change amid central bank policies,neutral,0,2021-11-19,1641.9727834047037,1652.7842891015214,0.3,1652.7842891015214,0.3
+Gold remains unchanged in light of inflation,neutral,0,2021-11-20,1643.218360792515,1651.6568956947413,0.2,1651.6568956947413,0.2
+Gold market weakens as geopolitical risks declines,negative,-1,2021-11-21,1642.7738417295734,1649.875358134313,0.1,1649.875358134313,0.1
+Gold market shows little change amid central bank policies,neutral,0,2021-11-22,1635.5426061527764,1647.919724246182,0.0,1647.919724246182,0.0
+No major movement in gold prices because of economic uncertainty,neutral,0,2021-11-23,1638.8009771482464,1646.3823391932133,-0.1,1646.3823391932133,-0.1
+Gold market weakens as global tensions declines,negative,-1,2021-11-24,1632.6410153610718,1644.273508065426,-0.3,1644.273508065426,-0.3
+Gold is gaining value as stock market fluctuations improves,positive,1,2021-11-25,1638.1169876608026,1642.575057523924,-0.2,1642.575057523924,-0.2
+Gold prices are rising due to market volatility,positive,1,2021-11-26,1641.9046000583176,1641.1505971367933,0.0,1641.1505971367933,0.0
+Gold market weakens as investor sentiment declines,negative,-1,2021-11-27,1642.4129503023028,1640.421011536572,-0.2,1640.421011536572,-0.2
+Gold prices are falling because of geopolitical risks,negative,-1,2021-11-28,1635.089065454446,1639.2473188064755,-0.2,1639.2473188064755,-0.2
+Gold is trading sideways due to central bank policies,neutral,0,2021-11-29,1640.0847962349435,1639.0585200894996,-0.2,1639.0585200894996,-0.2
+Gold is trading sideways due to geopolitical risks,neutral,0,2021-11-30,1648.5274826839673,1639.5894322786448,-0.2,1639.5894322786448,-0.2
+Gold is gaining value as weak currency improves,positive,1,2021-12-01,1654.8851249727866,1640.8005606029662,0.0,1640.8005606029662,0.0
+Gold is trading sideways due to global tensions,neutral,0,2021-12-02,1649.4122386175495,1642.1875238494436,0.0,1642.1875238494436,0.0
+Gold market shows little change amid global tensions,neutral,0,2021-12-03,1654.1702094909049,1643.7244470837093,0.0,1643.7244470837093,0.0
+No major movement in gold prices because of geopolitical risks,neutral,0,2021-12-04,1652.3852263230012,1645.6988681799023,0.1,1645.6988681799023,0.1
+Gold market shows little change amid stock market fluctuations,neutral,0,2021-12-05,1657.3945990659386,1647.6266293204158,0.0,1647.6266293204158,0.0
+Investors are optimistic about gold because of strong dollar,positive,1,2021-12-06,1651.8173683417565,1648.6179061487596,0.0,1648.6179061487596,0.0
+Selling pressure reduces gold value because of geopolitical risks,negative,-1,2021-12-07,1650.0218839261545,1649.3787995111447,0.0,1649.3787995111447,0.0
+Investors are optimistic about gold because of market volatility,positive,1,2021-12-08,1651.74209972182,1651.044102937882,0.2,1651.044102937882,0.2
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2021-12-09,1652.7593617696805,1652.3115594913556,0.3,1652.3115594913556,0.3
+Gold is trading sideways due to central bank policies,neutral,0,2021-12-10,1656.150665094841,1653.0738777324434,0.3,1653.0738777324434,0.3
+Gold market shows little change amid economic uncertainty,neutral,0,2021-12-11,1663.209225324081,1653.9062877675728,0.2,1653.9062877675728,0.2
+Gold demand is increasing amid geopolitical risks,positive,1,2021-12-12,1666.1201798321931,1655.5770818890371,0.3,1655.5770818890371,0.3
+Investors are optimistic about gold because of global tensions,positive,1,2021-12-13,1673.7599437858769,1657.5360553185342,0.4,1657.5360553185342,0.4
+Investors are optimistic about gold because of strong dollar,positive,1,2021-12-14,1677.3872616624967,1660.036258852484,0.5,1660.036258852484,0.5
+Gold is gaining value as weak currency improves,positive,1,2021-12-15,1680.7913660376894,1662.375935549659,0.6,1662.375935549659,0.6
+Investors are optimistic about gold because of strong dollar,positive,1,2021-12-16,1681.5164868365152,1665.3458473991348,0.6,1665.3458473991348,0.6
+Gold market weakens as global tensions declines,negative,-1,2021-12-17,1673.8346688584602,1667.7271258923654,0.6,1667.7271258923654,0.6
+Gold demand is increasing amid stock market fluctuations,positive,1,2021-12-18,1678.4449339082553,1670.397409311009,0.6,1670.397409311009,0.6
+Gold prices remain stable despite interest rate changes,neutral,0,2021-12-19,1684.2257314065473,1673.5440462746956,0.5,1673.5440462746956,0.5
+Gold prices remain stable despite global tensions,neutral,0,2021-12-20,1682.183452266965,1676.147324991908,0.5,1676.147324991908,0.5
+Investors are worried about gold due to investor sentiment,negative,-1,2021-12-21,1677.7575489873827,1677.6021573582384,0.4,1677.6021573582384,0.4
+Gold prices are rising due to market volatility,positive,1,2021-12-22,1678.0471566119277,1678.794855036212,0.4,1678.794855036212,0.4
+Investors are optimistic about gold because of economic uncertainty,positive,1,2021-12-23,1676.6696418250203,1679.0858248401262,0.4,1679.0858248401262,0.4
+Gold is trading sideways due to weak currency,neutral,0,2021-12-24,1672.9179739871663,1678.638896072593,0.3,1678.638896072593,0.3
+No major movement in gold prices because of strong dollar,neutral,0,2021-12-25,1670.813193386355,1677.6410788074595,0.2,1677.6410788074595,0.2
+Gold remains unchanged in light of global tensions,neutral,0,2021-12-26,1669.0507922358197,1676.39450934739,0.1,1676.39450934739,0.1
+Strong buying interest pushes gold higher due to central bank policies,positive,1,2021-12-27,1671.6957736842262,1676.1806198299666,0.3,1676.1806198299666,0.3
+Gold demand is decreasing amid weak currency,negative,-1,2021-12-28,1670.8340380896295,1675.419530248104,0.1,1675.419530248104,0.1
+Investors are optimistic about gold because of investor sentiment,positive,1,2021-12-29,1681.6016305579835,1675.1571201632476,0.2,1675.1571201632476,0.2
+Investors are worried about gold due to strong dollar,negative,-1,2021-12-30,1678.8776637734466,1674.8265413138956,0.1,1674.8265413138956,0.1
+Strong buying interest pushes gold higher due to global tensions,positive,1,2021-12-31,1671.717002174657,1674.2224866326233,0.3,1674.2224866326233,0.3
+Investors are worried about gold due to investor sentiment,negative,-1,2022-01-01,1675.5980312446047,1673.9775740958908,0.1,1673.9775740958908,0.1
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-01-02,1680.7108205506408,1674.381691968453,0.1,1674.381691968453,0.1
+Gold prices remain stable despite inflation,neutral,0,2022-01-03,1677.3537965991054,1674.8252742296468,0.1,1674.8252742296468,0.1
+Gold is gaining value as interest rate changes improves,positive,1,2022-01-04,1668.703862166363,1674.6143411076475,0.2,1674.6143411076475,0.2
+No major movement in gold prices because of global tensions,neutral,0,2022-01-05,1671.031214284929,1674.8123833125585,0.2,1674.8123833125585,0.2
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2022-01-06,1678.0228360408169,1675.4450895482175,0.0,1675.4450895482175,0.0
+Gold prices remain stable despite central bank policies,neutral,0,2022-01-07,1672.235801558366,1675.5852658950912,0.1,1675.5852658950912,0.1
+Investors are worried about gold due to economic uncertainty,negative,-1,2022-01-08,1659.480305096578,1673.373133348951,-0.1,1673.373133348951,-0.1
+Gold prices are falling because of interest rate changes,negative,-1,2022-01-09,1651.7359209590286,1670.658959067509,-0.1,1670.658959067509,-0.1
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2022-01-10,1661.22094490672,1669.6093533407152,-0.3,1669.6093533407152,-0.3
+Gold prices remain stable despite geopolitical risks,neutral,0,2022-01-11,1651.2184252630243,1667.1713927425571,-0.2,1667.1713927425571,-0.2
+Investors are worried about gold due to weak currency,negative,-1,2022-01-12,1656.41215624807,1664.7415263123005,-0.4,1664.7415263123005,-0.4
+Gold prices are falling because of global tensions,negative,-1,2022-01-13,1658.3305603383174,1662.8392026862214,-0.5,1662.8392026862214,-0.5
+Gold prices remain stable despite investor sentiment,neutral,0,2022-01-14,1652.9464329339569,1661.2634597629808,-0.6,1661.2634597629808,-0.6
+Selling pressure reduces gold value because of inflation,negative,-1,2022-01-15,1645.03728553074,1658.6640668875618,-0.7,1658.6640668875618,-0.7
+Gold market weakens as weak currency declines,negative,-1,2022-01-16,1656.2622756953494,1656.4880108530149,-0.7,1656.4880108530149,-0.7
+Gold prices remain stable despite interest rate changes,neutral,0,2022-01-17,1651.5871286849815,1654.4231435656766,-0.7,1654.4231435656766,-0.7
+Gold market shows little change amid central bank policies,neutral,0,2022-01-18,1648.6653415894282,1653.3416472149615,-0.6,1653.3416472149615,-0.6
+Gold demand is decreasing amid inflation,negative,-1,2022-01-19,1652.5515919666489,1653.4232143157235,-0.6,1653.4232143157235,-0.6
+Investors are optimistic about gold because of strong dollar,positive,1,2022-01-20,1653.0501831141871,1652.6061381364702,-0.4,1652.6061381364702,-0.4
+Gold prices are falling because of investor sentiment,negative,-1,2022-01-21,1651.7585758386776,1652.660153194036,-0.5,1652.660153194036,-0.5
+Gold is trading sideways due to economic uncertainty,neutral,0,2022-01-22,1654.86845163847,1652.505782733076,-0.4,1652.505782733076,-0.4
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-01-23,1658.250682702524,1652.4977949694962,-0.2,1652.4977949694962,-0.2
+Gold prices remain stable despite investor sentiment,neutral,0,2022-01-24,1658.581628528504,1653.061314528951,-0.2,1653.061314528951,-0.2
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2022-01-25,1659.020111384829,1654.45959711436,0.0,1654.45959711436,0.0
+Gold demand is decreasing amid central bank policies,negative,-1,2022-01-26,1654.1207578528963,1654.2454453301148,0.0,1654.2454453301148,0.0
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2022-01-27,1653.3689340554547,1654.423625867162,0.0,1654.423625867162,0.0
+Gold demand is decreasing amid interest rate changes,negative,-1,2022-01-28,1649.1820320212198,1654.475294910341,-0.1,1654.475294910341,-0.1
+Gold prices are rising due to economic uncertainty,positive,1,2022-01-29,1653.8305431973904,1654.603190033415,0.1,1654.603190033415,0.1
+Gold is gaining value as investor sentiment improves,positive,1,2022-01-30,1655.904177656353,1654.888589487632,0.1,1654.888589487632,0.1
+Gold market weakens as strong dollar declines,negative,-1,2022-01-31,1655.755449346719,1655.2882768384363,0.1,1655.2882768384363,0.1
+Selling pressure reduces gold value because of market volatility,negative,-1,2022-02-01,1655.6052238198686,1655.361954056576,0.0,1655.361954056576,0.0
+Gold market shows little change amid strong dollar,neutral,0,2022-02-02,1657.384332874538,1655.2753190737774,-0.1,1655.2753190737774,-0.1
+Gold demand is decreasing amid inflation,negative,-1,2022-02-03,1653.289465991326,1654.7461028200596,-0.2,1654.7461028200596,-0.2
+Gold is trading sideways due to weak currency,neutral,0,2022-02-04,1649.7453875058056,1653.818630432157,-0.3,1653.818630432157,-0.3
+Gold market weakens as central bank policies declines,negative,-1,2022-02-05,1641.5899188974695,1652.5655465366144,-0.3,1652.5655465366144,-0.3
+Gold prices remain stable despite weak currency,neutral,0,2022-02-06,1639.1206879350204,1651.140721924571,-0.3,1651.140721924571,-0.3
+Gold prices are falling because of global tensions,negative,-1,2022-02-07,1642.2723805303772,1650.4497567754868,-0.3,1650.4497567754868,-0.3
+Gold prices are falling because of weak currency,negative,-1,2022-02-08,1645.9794476932286,1649.664647225071,-0.5,1649.664647225071,-0.5
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2022-02-09,1648.134623337734,1648.887691793209,-0.7,1648.887691793209,-0.7
+Gold prices are rising due to investor sentiment,positive,1,2022-02-10,1656.5540933700518,1648.967556195542,-0.5,1648.967556195542,-0.5
+Investors are worried about gold due to global tensions,negative,-1,2022-02-11,1655.309875361174,1648.938021349673,-0.5,1648.938021349673,-0.5
+Gold prices remain stable despite inflation,neutral,0,2022-02-12,1653.4805681493335,1648.5476448771522,-0.5,1648.5476448771522,-0.5
+Gold prices are rising due to inflation,positive,1,2022-02-13,1662.8579221390069,1649.5044904919205,-0.3,1649.5044904919205,-0.3
+Gold prices remain stable despite weak currency,neutral,0,2022-02-14,1669.5620008351827,1651.486151824858,-0.3,1651.486151824858,-0.3
+Gold demand is increasing amid global tensions,positive,1,2022-02-15,1669.1061567440497,1654.237775609516,-0.1,1654.237775609516,-0.1
+No major movement in gold prices because of stock market fluctuations,neutral,0,2022-02-16,1666.62445011171,1656.988151827185,-0.1,1656.988151827185,-0.1
+Investors are worried about gold due to investor sentiment,negative,-1,2022-02-17,1663.440093970991,1659.1049231712464,-0.1,1659.1049231712464,-0.1
+Investors are optimistic about gold because of economic uncertainty,positive,1,2022-02-18,1654.062526509319,1659.9132310528553,0.1,1659.9132310528553,0.1
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2022-02-19,1654.8169063835564,1660.581459357437,0.3,1660.581459357437,0.3
+Gold remains unchanged in light of interest rate changes,neutral,0,2022-02-20,1660.5528157422807,1660.9813315946606,0.2,1660.9813315946606,0.2
+Gold market shows little change amid interest rate changes,neutral,0,2022-02-21,1652.6570492336857,1660.7160489819114,0.3,1660.7160489819114,0.3
+Gold is trading sideways due to market volatility,neutral,0,2022-02-22,1652.4260752350451,1660.6105996904826,0.3,1660.6105996904826,0.3
+No major movement in gold prices because of central bank policies,neutral,0,2022-02-23,1649.2170853394423,1659.2465160105264,0.2,1659.2465160105264,0.2
+Gold demand is increasing amid inflation,positive,1,2022-02-24,1650.1448453551918,1657.304800462527,0.3,1657.304800462527,0.3
+Gold prices are rising due to stock market fluctuations,positive,1,2022-02-25,1661.0308094964726,1656.497265737769,0.3,1656.497265737769,0.3
+Investors are optimistic about gold because of geopolitical risks,positive,1,2022-02-26,1654.575357075242,1655.292356434123,0.4,1655.292356434123,0.4
+Gold prices are falling because of stock market fluctuations,negative,-1,2022-02-27,1657.6520792369756,1654.713554960721,0.4,1654.713554960721,0.4
+Gold is trading sideways due to weak currency,neutral,0,2022-02-28,1651.899802809423,1654.4972825907316,0.3,1654.4972825907316,0.3
+Gold remains unchanged in light of market volatility,neutral,0,2022-03-01,1653.3899182762725,1654.3545837800034,0.2,1654.3545837800034,0.2
+Strong buying interest pushes gold higher due to market volatility,positive,1,2022-03-02,1660.4507800519627,1654.3443802109712,0.3,1654.3443802109712,0.3
+Investors are optimistic about gold because of interest rate changes,positive,1,2022-03-03,1663.908361124675,1655.4695114000704,0.4,1655.4695114000704,0.4
+Gold is trading sideways due to geopolitical risks,neutral,0,2022-03-04,1665.092784265982,1656.7361823031638,0.4,1656.7361823031638,0.4
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-03-05,1667.7152891137284,1658.5860026805926,0.5,1658.5860026805926,0.5
+Gold demand is decreasing amid inflation,negative,-1,2022-03-06,1666.208896761291,1660.1924078212026,0.3,1660.1924078212026,0.3
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2022-03-07,1662.3034654048186,1660.319673412037,0.1,1660.319673412037,0.1
+Gold demand is decreasing amid global tensions,negative,-1,2022-03-08,1668.2247541620477,1661.6846131207178,-0.1,1661.6846131207178,-0.1
+Gold demand is decreasing amid investor sentiment,negative,-1,2022-03-09,1670.0711335234855,1662.926518549369,-0.1,1662.926518549369,-0.1
+Gold prices remain stable despite market volatility,neutral,0,2022-03-10,1663.074711788738,1664.0440094473,-0.1,1664.0440094473,-0.1
+Strong buying interest pushes gold higher due to central bank policies,positive,1,2022-03-11,1665.143016423788,1665.2193192620518,0.0,1665.2193192620518,0.0
+Gold is gaining value as weak currency improves,positive,1,2022-03-12,1663.5145757834175,1665.525698835197,0.0,1665.525698835197,0.0
+Selling pressure reduces gold value because of weak currency,negative,-1,2022-03-13,1659.1465395807163,1665.0495166808014,-0.2,1665.0495166808014,-0.2
+Gold prices are falling because of inflation,negative,-1,2022-03-14,1660.8164637568022,1664.6218846298834,-0.3,1664.6218846298834,-0.3
+Gold prices are rising due to stock market fluctuations,positive,1,2022-03-15,1660.6957854258671,1663.9199342610973,-0.3,1663.9199342610973,-0.3
+Selling pressure reduces gold value because of market volatility,negative,-1,2022-03-16,1661.2252695726029,1663.4215715422283,-0.3,1663.4215715422283,-0.3
+No major movement in gold prices because of economic uncertainty,neutral,0,2022-03-17,1670.140719331191,1664.2052969348656,-0.2,1664.2052969348656,-0.2
+Investors are optimistic about gold because of economic uncertainty,positive,1,2022-03-18,1674.6879048377884,1664.8516120024397,0.0,1664.8516120024397,0.0
+Gold remains unchanged in light of weak currency,neutral,0,2022-03-19,1680.2922628308468,1665.873724933176,0.1,1665.873724933176,0.1
+Gold prices remain stable despite geopolitical risks,neutral,0,2022-03-20,1688.055653115042,1668.3718190658062,0.1,1668.3718190658062,0.1
+Gold remains unchanged in light of investor sentiment,neutral,0,2022-03-21,1689.1921459600426,1670.7767320194318,0.0,1670.7767320194318,0.0
+Gold demand is increasing amid market volatility,positive,1,2022-03-22,1684.1729289050368,1672.8425673315935,0.0,1672.8425673315935,0.0
+Investors are worried about gold due to inflation,negative,-1,2022-03-23,1681.3396997065547,1675.0618833441774,0.0,1675.0618833441774,0.0
+Gold prices are falling because of investor sentiment,negative,-1,2022-03-24,1680.775427786004,1677.0577797470974,0.0,1677.0577797470974,0.0
+No major movement in gold prices because of stock market fluctuations,neutral,0,2022-03-25,1688.2822240137284,1679.8164236058838,-0.1,1679.8164236058838,-0.1
+Gold market shows little change amid interest rate changes,neutral,0,2022-03-26,1686.4253111304718,1682.3364277616706,0.0,1682.3364277616706,0.0
+Gold market weakens as geopolitical risks declines,negative,-1,2022-03-27,1676.3567883178926,1682.958034660341,-0.1,1682.958034660341,-0.1
+Gold remains unchanged in light of inflation,neutral,0,2022-03-28,1667.9209997547705,1682.2813441520389,-0.2,1682.2813441520389,-0.2
+Gold demand is decreasing amid geopolitical risks,negative,-1,2022-03-29,1667.1374517466468,1680.9658630436193,-0.3,1680.9658630436193,-0.3
+Strong buying interest pushes gold higher due to inflation,positive,1,2022-03-30,1660.853508596796,1678.2456485917944,-0.2,1678.2456485917944,-0.2
+Gold market weakens as inflation declines,negative,-1,2022-03-31,1658.3484343805271,1675.1612774338428,-0.3,1675.1612774338428,-0.3
+Gold market weakens as weak currency declines,negative,-1,2022-04-01,1660.313365861184,1672.7753211294578,-0.5,1672.7753211294578,-0.5
+Gold market weakens as interest rate changes declines,negative,-1,2022-04-02,1660.9415764041014,1670.735508799212,-0.5,1670.735508799212,-0.5
+Gold market shows little change amid geopolitical risks,neutral,0,2022-04-03,1658.9788017661722,1668.5558461972291,-0.4,1668.5558461972291,-0.4
+Investors are optimistic about gold because of inflation,positive,1,2022-04-04,1659.7843410732098,1665.7060579031772,-0.3,1665.7060579031772,-0.3
+Selling pressure reduces gold value because of weak currency,negative,-1,2022-04-05,1656.224966408112,1662.6860234309413,-0.4,1662.6860234309413,-0.4
+Gold market shows little change amid geopolitical risks,neutral,0,2022-04-06,1660.3862937235522,1661.0889739715071,-0.3,1661.0889739715071,-0.3
+Strong buying interest pushes gold higher due to inflation,positive,1,2022-04-07,1660.1946579690302,1660.3163397929334,-0.2,1660.3163397929334,-0.2
+Investors are worried about gold due to inflation,negative,-1,2022-04-08,1657.6645257058833,1659.3690471888567,-0.2,1659.3690471888567,-0.2
+No major movement in gold prices because of central bank policies,neutral,0,2022-04-09,1661.5172235734362,1659.435418686521,-0.3,1659.435418686521,-0.3
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2022-04-10,1655.7575098990196,1659.1763262383702,-0.2,1659.1763262383702,-0.2
+Investors are optimistic about gold because of geopolitical risks,positive,1,2022-04-11,1667.2508611512417,1659.870075767376,0.0,1659.870075767376,0.0
+Investors are worried about gold due to interest rate changes,negative,-1,2022-04-12,1657.2438525289222,1659.500303379858,0.0,1659.500303379858,0.0
+Gold demand is decreasing amid strong dollar,negative,-1,2022-04-13,1657.6527306325868,1659.3676962664997,-0.1,1659.3676962664997,-0.1
+No major movement in gold prices because of stock market fluctuations,neutral,0,2022-04-14,1667.8270801983035,1660.171970179009,-0.2,1660.171970179009,-0.2
+Gold prices are falling because of weak currency,negative,-1,2022-04-15,1676.2880700338128,1662.1782805415787,-0.2,1662.1782805415787,-0.2
+Strong buying interest pushes gold higher due to market volatility,positive,1,2022-04-16,1677.2765797762538,1663.8673091468493,-0.1,1663.8673091468493,-0.1
+Gold prices remain stable despite inflation,neutral,0,2022-04-17,1681.1774723944798,1665.9655905893942,-0.2,1665.9655905893942,-0.2
+No major movement in gold prices because of market volatility,neutral,0,2022-04-18,1679.6419749486297,1668.1633355136685,-0.1,1668.1633355136685,-0.1
+Gold demand is decreasing amid central bank policies,negative,-1,2022-04-19,1676.8466462603396,1669.6962777823587,-0.2,1669.6962777823587,-0.2
+Gold prices remain stable despite interest rate changes,neutral,0,2022-04-20,1675.6957357348103,1671.690100365938,-0.2,1671.690100365938,-0.2
+Gold remains unchanged in light of global tensions,neutral,0,2022-04-21,1677.7051796700837,1672.735532217822,-0.3,1672.735532217822,-0.3
+Gold is trading sideways due to market volatility,neutral,0,2022-04-22,1675.6619097004225,1674.577337934972,-0.2,1674.577337934972,-0.2
+Gold market weakens as inflation declines,negative,-1,2022-04-23,1675.2127035643755,1676.333335228151,-0.2,1676.333335228151,-0.2
+Gold prices are rising due to weak currency,positive,1,2022-04-24,1673.0100888498084,1676.8516360933015,-0.1,1676.8516360933015,-0.1
+No major movement in gold prices because of interest rate changes,neutral,0,2022-04-25,1678.6369206587128,1677.0865211557916,0.0,1677.0865211557916,0.0
+Gold demand is increasing amid geopolitical risks,positive,1,2022-04-26,1684.4200610503328,1677.8008692831995,0.0,1677.8008692831995,0.0
+Selling pressure reduces gold value because of weak currency,negative,-1,2022-04-27,1688.1727804715006,1678.5004000909016,-0.1,1678.5004000909016,-0.1
+No major movement in gold prices because of strong dollar,neutral,0,2022-04-28,1690.756211161001,1679.6118237121386,-0.1,1679.6118237121386,-0.1
+Gold demand is decreasing amid global tensions,negative,-1,2022-04-29,1694.5732855367382,1681.3844876397786,-0.1,1681.3844876397786,-0.1
+Gold remains unchanged in light of market volatility,neutral,0,2022-04-30,1686.674972494289,1682.4824113157265,-0.1,1682.4824113157265,-0.1
+Gold prices are rising due to geopolitical risks,positive,1,2022-05-01,1678.052335785134,1682.5171269272316,0.0,1682.5171269272316,0.0
+Gold prices are falling because of market volatility,negative,-1,2022-05-02,1674.2206460613606,1682.3730005633254,-0.1,1682.3730005633254,-0.1
+Investors are optimistic about gold because of global tensions,positive,1,2022-05-03,1676.0456421351769,1682.4562944204056,0.1,1682.4562944204056,0.1
+Gold demand is decreasing amid strong dollar,negative,-1,2022-05-04,1684.362107220246,1683.591496257449,-0.1,1683.591496257449,-0.1
+Gold market shows little change amid central bank policies,neutral,0,2022-05-05,1682.9920110425785,1684.0270052958356,-0.1,1684.0270052958356,-0.1
+Gold prices are rising due to economic uncertainty,positive,1,2022-05-06,1682.683805852019,1683.8533797760042,-0.1,1683.8533797760042,-0.1
+Gold prices are falling because of stock market fluctuations,negative,-1,2022-05-07,1684.977462668396,1683.533847995694,-0.1,1683.533847995694,-0.1
+Gold remains unchanged in light of central bank policies,neutral,0,2022-05-08,1686.1279623197,1683.0710231115638,-0.1,1683.0710231115638,-0.1
+No major movement in gold prices because of investor sentiment,neutral,0,2022-05-09,1694.3619198916767,1683.0498865470574,0.0,1683.0498865470574,0.0
+Gold market weakens as central bank policies declines,negative,-1,2022-05-10,1695.4042574829575,1683.9228150459246,-0.1,1683.9228150459246,-0.1
+Gold market shows little change amid market volatility,neutral,0,2022-05-11,1690.649177240973,1685.1824991915084,-0.2,1685.1824991915084,-0.2
+Gold market weakens as geopolitical risks declines,negative,-1,2022-05-12,1688.9203517345115,1686.6524697588234,-0.2,1686.6524697588234,-0.2
+Gold is trading sideways due to global tensions,neutral,0,2022-05-13,1686.2457351252117,1687.672479057827,-0.3,1687.672479057827,-0.3
+Gold prices are falling because of weak currency,negative,-1,2022-05-14,1688.0924541238196,1688.0455137481845,-0.3,1688.0455137481845,-0.3
+Gold is trading sideways due to stock market fluctuations,neutral,0,2022-05-15,1693.3801173109969,1689.0843243750264,-0.3,1689.0843243750264,-0.3
+Gold remains unchanged in light of weak currency,neutral,0,2022-05-16,1684.4504383677372,1689.260987626598,-0.4,1689.260987626598,-0.4
+Gold demand is increasing amid strong dollar,positive,1,2022-05-17,1692.0334045883833,1689.9665818185968,-0.2,1689.9665818185968,-0.2
+Gold is trading sideways due to interest rate changes,neutral,0,2022-05-18,1691.1083238040796,1690.4646179670349,-0.2,1690.4646179670349,-0.2
+Investors are optimistic about gold because of weak currency,positive,1,2022-05-19,1692.3427670567232,1690.2627026835394,-0.1,1690.2627026835394,-0.1
+Gold remains unchanged in light of central bank policies,neutral,0,2022-05-20,1695.673618715436,1690.289638806787,0.0,1690.289638806787,0.0
+Selling pressure reduces gold value because of inflation,negative,-1,2022-05-21,1697.2657466731462,1690.9512957500046,-0.1,1690.9512957500046,-0.1
+Investors are worried about gold due to interest rate changes,negative,-1,2022-05-22,1690.096096485987,1691.0688702251518,-0.1,1691.0688702251518,-0.1
+Gold is gaining value as central bank policies improves,positive,1,2022-05-23,1692.614333296084,1691.705730042239,0.0,1691.705730042239,0.0
+Selling pressure reduces gold value because of market volatility,negative,-1,2022-05-24,1699.3161173395335,1692.8280963638106,0.0,1692.8280963638106,0.0
+Gold prices are rising due to inflation,positive,1,2022-05-25,1702.0892400429368,1693.699008637005,0.1,1693.699008637005,0.1
+Gold prices are falling because of investor sentiment,negative,-1,2022-05-26,1707.0209286623517,1695.9560576664662,0.0,1695.9560576664662,0.0
+Gold market weakens as economic uncertainty declines,negative,-1,2022-05-27,1716.6353229335805,1698.416249500986,-0.2,1698.416249500986,-0.2
+Investors are optimistic about gold because of market volatility,positive,1,2022-05-28,1718.5478565794565,1701.1602027785236,-0.1,1701.1602027785236,-0.1
+Gold prices are rising due to economic uncertainty,positive,1,2022-05-29,1720.6699831785345,1703.9929243907045,-0.1,1703.9929243907045,-0.1
+Gold demand is increasing amid global tensions,positive,1,2022-05-30,1730.3383618359424,1707.4593987027552,0.0,1707.4593987027552,0.0
+Gold demand is increasing amid global tensions,positive,1,2022-05-31,1733.9976247948318,1711.132586514924,0.2,1711.132586514924,0.2
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2022-06-01,1734.6949826297327,1715.5924751292982,0.2,1715.5924751292982,0.2
+Investors are worried about gold due to interest rate changes,negative,-1,2022-06-02,1735.919399301666,1719.9229817298565,0.0,1719.9229817298565,0.0
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2022-06-03,1741.696581336524,1724.1610281295557,0.2,1724.1610281295557,0.2
+Gold is gaining value as interest rate changes improves,positive,1,2022-06-04,1745.394934007978,1728.49159752606,0.2,1728.49159752606,0.2
+Gold market weakens as strong dollar declines,negative,-1,2022-06-05,1746.4166000638072,1732.4311646662052,0.2,1732.4311646662052,0.2
+Gold prices are rising due to geopolitical risks,positive,1,2022-06-06,1743.11335581877,1735.0789679547245,0.4,1735.0789679547245,0.4
+Gold remains unchanged in light of weak currency,neutral,0,2022-06-07,1742.3212394090026,1737.456306237679,0.3,1737.456306237679,0.3
+Selling pressure reduces gold value because of central bank policies,negative,-1,2022-06-08,1738.4805246699011,1739.2373603868157,0.1,1739.2373603868157,0.1
+Gold demand is increasing amid geopolitical risks,positive,1,2022-06-09,1738.2129853828685,1740.0248227415082,0.1,1740.0248227415082,0.1
+Gold demand is increasing amid investor sentiment,positive,1,2022-06-10,1728.922700128432,1739.517330274868,0.1,1739.517330274868,0.1
+Gold is trading sideways due to geopolitical risks,neutral,0,2022-06-11,1728.91661555832,1738.9394935677271,0.2,1738.9394935677271,0.2
+Investors are worried about gold due to geopolitical risks,negative,-1,2022-06-12,1742.2401573453924,1739.5715693720997,0.2,1739.5715693720997,0.2
+Gold is trading sideways due to central bank policies,neutral,0,2022-06-13,1736.7960667926548,1739.0815179177127,0.1,1739.0815179177127,0.1
+Gold demand is increasing amid weak currency,positive,1,2022-06-14,1737.6265947165814,1738.304683988573,0.1,1738.304683988573,0.1
+Investors are worried about gold due to interest rate changes,negative,-1,2022-06-15,1737.2566652055918,1737.3886905027514,0.1,1737.3886905027514,0.1
+Investors are worried about gold due to inflation,negative,-1,2022-06-16,1729.901405061493,1736.067495427024,-0.1,1736.067495427024,-0.1
+Gold demand is increasing amid strong dollar,positive,1,2022-06-17,1738.7566134544263,1735.7110328315662,0.0,1735.7110328315662,0.0
+Gold prices remain stable despite central bank policies,neutral,0,2022-06-18,1738.0529835483271,1735.6682787194088,0.1,1735.6682787194088,0.1
+Gold is gaining value as investor sentiment improves,positive,1,2022-06-19,1738.1302592346303,1735.6600061045851,0.1,1735.6600061045851,0.1
+Gold remains unchanged in light of weak currency,neutral,0,2022-06-20,1737.0274190957127,1736.4704780013133,0.0,1736.4704780013133,0.0
+Gold remains unchanged in light of geopolitical risks,neutral,0,2022-06-21,1743.1078241325326,1737.8895988587344,0.0,1737.8895988587344,0.0
+Gold market shows little change amid weak currency,neutral,0,2022-06-22,1746.2148311425092,1738.287066238446,0.1,1738.287066238446,0.1
+Gold prices are rising due to interest rate changes,positive,1,2022-06-23,1737.9110948115738,1738.3985690403376,0.2,1738.3985690403376,0.2
+Gold market shows little change amid geopolitical risks,neutral,0,2022-06-24,1733.5531319045497,1737.9912227591346,0.1,1737.9912227591346,0.1
+Gold prices are rising due to geopolitical risks,positive,1,2022-06-25,1741.1068843032492,1738.3762446689004,0.3,1738.3762446689004,0.3
+Gold prices are rising due to investor sentiment,positive,1,2022-06-26,1739.94901339619,1739.38100550237,0.5,1739.38100550237,0.5
+Selling pressure reduces gold value because of investor sentiment,negative,-1,2022-06-27,1739.0589035882906,1739.4112345157566,0.3,1739.4112345157566,0.3
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2022-06-28,1735.6807617343425,1739.1740123343582,0.4,1739.1740123343582,0.4
+Gold market shows little change amid stock market fluctuations,neutral,0,2022-06-29,1730.949147394182,1738.4559011503134,0.3,1738.4559011503134,0.3
+Gold is gaining value as economic uncertainty improves,positive,1,2022-06-30,1732.331471802861,1737.986306421028,0.4,1737.986306421028,0.4
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-07-01,1734.1668080930433,1737.0922048170792,0.5,1737.0922048170792,0.5
+Gold prices remain stable despite market volatility,neutral,0,2022-07-02,1727.7480993101976,1735.245531633848,0.5,1735.245531633848,0.5
+Gold is gaining value as investor sentiment improves,positive,1,2022-07-03,1726.3110787093078,1734.0855300236212,0.5,1734.0855300236212,0.5
+Investors are optimistic about gold because of inflation,positive,1,2022-07-04,1728.9414524647314,1733.6243620796397,0.6,1733.6243620796397,0.6
+Gold remains unchanged in light of strong dollar,neutral,0,2022-07-05,1733.4201280197324,1732.855686451288,0.5,1732.855686451288,0.5
+Gold prices are rising due to inflation,positive,1,2022-07-06,1732.6572851523642,1732.1265136269053,0.5,1732.1265136269053,0.5
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2022-07-07,1731.1757868064224,1731.3382019487185,0.5,1731.3382019487185,0.5
+Gold prices are falling because of weak currency,negative,-1,2022-07-08,1733.744740289026,1731.1445998041868,0.3,1731.1445998041868,0.3
+Investors are worried about gold due to weak currency,negative,-1,2022-07-09,1740.1016352807906,1732.0598485928476,0.2,1732.0598485928476,0.2
+Strong buying interest pushes gold higher due to inflation,positive,1,2022-07-10,1745.0337574758933,1733.330077160151,0.2,1733.330077160151,0.2
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2022-07-11,1739.8370428007704,1733.8971006309234,0.1,1733.8971006309234,0.1
+Gold demand is decreasing amid inflation,negative,-1,2022-07-12,1738.4211504069383,1734.9644057405978,0.0,1734.9644057405978,0.0
+Gold remains unchanged in light of geopolitical risks,neutral,0,2022-07-13,1745.236430208346,1736.8569408905016,-0.1,1736.8569408905016,-0.1
+Gold demand is decreasing amid market volatility,negative,-1,2022-07-14,1743.0059087066363,1738.263386514692,-0.3,1738.263386514692,-0.3
+Gold prices are rising due to strong dollar,positive,1,2022-07-15,1740.2809070128662,1738.9494644140054,-0.2,1738.9494644140054,-0.2
+Gold is trading sideways due to market volatility,neutral,0,2022-07-16,1742.4390940267529,1739.927645301444,-0.3,1739.927645301444,-0.3
+Gold prices are rising due to central bank policies,positive,1,2022-07-17,1739.5597132602338,1740.7660379468257,-0.1,1740.7660379468257,-0.1
+No major movement in gold prices because of inflation,neutral,0,2022-07-18,1721.951603973121,1739.5867243152347,0.0,1739.5867243152347,0.0
+Gold remains unchanged in light of inflation,neutral,0,2022-07-19,1729.322975962942,1738.50885838345,0.1,1738.50885838345,0.1
+No major movement in gold prices because of stock market fluctuations,neutral,0,2022-07-20,1729.436848022103,1736.949167438071,0.0,1736.949167438071,0.0
+Gold prices remain stable despite strong dollar,neutral,0,2022-07-21,1727.645693396045,1735.7300324975986,0.0,1735.7300324975986,0.0
+Investors are worried about gold due to market volatility,negative,-1,2022-07-22,1730.8722748388193,1734.9751449407863,0.0,1734.9751449407863,0.0
+Gold prices are rising due to geopolitical risks,positive,1,2022-07-23,1723.8875220139153,1732.8402541213436,0.1,1732.8402541213436,0.1
+Gold prices are falling because of geopolitical risks,negative,-1,2022-07-24,1724.2097902415169,1730.9606422748318,0.1,1730.9606422748318,0.1
+Gold remains unchanged in light of weak currency,neutral,0,2022-07-25,1726.403978610079,1729.5729494345528,0.0,1729.5729494345528,0.0
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2022-07-26,1728.8570653922386,1728.2147465711016,0.1,1728.2147465711016,0.1
+Gold prices are falling because of interest rate changes,negative,-1,2022-07-27,1728.5509913229348,1727.1138743773718,-0.1,1727.1138743773718,-0.1
+Gold prices are rising due to strong dollar,positive,1,2022-07-28,1724.410446055136,1727.3597585855732,0.0,1727.3597585855732,0.0
+Selling pressure reduces gold value because of geopolitical risks,negative,-1,2022-07-29,1718.665751633015,1726.2940361525802,-0.1,1726.2940361525802,-0.1
+Gold market shows little change amid global tensions,neutral,0,2022-07-30,1715.4972178591927,1724.9000731362892,-0.1,1724.9000731362892,-0.1
+Investors are optimistic about gold because of investor sentiment,positive,1,2022-07-31,1722.199445395536,1724.3554483362382,0.0,1724.3554483362382,0.0
+Gold demand is decreasing amid inflation,negative,-1,2022-08-01,1726.9057401171656,1723.9587948640728,0.0,1723.9587948640728,0.0
+Gold is trading sideways due to geopolitical risks,neutral,0,2022-08-02,1739.3653433088,1725.5065769935616,-0.1,1725.5065769935616,-0.1
+Gold prices are rising due to global tensions,positive,1,2022-08-03,1740.50046922568,1727.1356448919778,0.1,1727.1356448919778,0.1
+Investors are optimistic about gold because of market volatility,positive,1,2022-08-04,1740.0030514380746,1728.4955521747772,0.2,1728.4955521747772,0.2
+Gold is trading sideways due to weak currency,neutral,0,2022-08-05,1736.0342726184658,1729.2132728974,0.1,1729.2132728974,0.1
+Gold is gaining value as weak currency improves,positive,1,2022-08-06,1742.030792776622,1730.5612530427686,0.3,1730.5612530427686,0.3
+Gold is gaining value as central bank policies improves,positive,1,2022-08-07,1743.4496834689298,1732.4651767841483,0.3,1732.4651767841483,0.3
+Gold prices are falling because of weak currency,negative,-1,2022-08-08,1749.9461449144808,1735.5932161122946,0.3,1735.5932161122946,0.3
+Investors are worried about gold due to investor sentiment,negative,-1,2022-08-09,1743.8193299244294,1738.4254273188185,0.2,1738.4254273188185,0.2
+Gold demand is decreasing amid inflation,negative,-1,2022-08-10,1738.4580781886116,1740.051290598126,0.0,1740.051290598126,0.0
+Selling pressure reduces gold value because of strong dollar,negative,-1,2022-08-11,1733.5028985958998,1740.7110064459994,0.0,1740.7110064459994,0.0
+Gold market shows little change amid market volatility,neutral,0,2022-08-12,1733.029251423833,1740.077397257503,0.0,1740.077397257503,0.0
+Gold is gaining value as market volatility improves,positive,1,2022-08-13,1742.0500493338636,1740.232355268321,0.0,1740.232355268321,0.0
+Gold is gaining value as inflation improves,positive,1,2022-08-14,1751.3568117570198,1741.3677313002158,0.0,1741.3677313002158,0.0
+Gold remains unchanged in light of economic uncertainty,neutral,0,2022-08-15,1753.9204357259152,1743.1563476109604,0.0,1743.1563476109604,0.0
+Gold prices are rising due to stock market fluctuations,positive,1,2022-08-16,1757.0497314145805,1744.658241474756,0.0,1744.658241474756,0.0
+Investors are worried about gold due to investor sentiment,negative,-1,2022-08-17,1758.8333593847733,1746.196609066341,-0.2,1746.196609066341,-0.2
+Gold demand is decreasing amid global tensions,negative,-1,2022-08-18,1760.5635030817775,1747.2583448830703,-0.2,1747.2583448830703,-0.2
+Gold remains unchanged in light of inflation,neutral,0,2022-08-19,1769.912910402053,1749.8677029308328,-0.1,1749.8677029308328,-0.1
+Gold demand is decreasing amid market volatility,negative,-1,2022-08-20,1772.5119589120131,1753.2730910031728,-0.1,1753.2730910031728,-0.1
+Gold prices are falling because of global tensions,negative,-1,2022-08-21,1773.148922568315,1757.2376934004144,-0.1,1757.2376934004144,-0.1
+No major movement in gold prices because of global tensions,neutral,0,2022-08-22,1777.2018198348542,1761.6549502415164,-0.1,1761.6549502415164,-0.1
+Strong buying interest pushes gold higher due to market volatility,positive,1,2022-08-23,1770.8420968490605,1764.5341549930365,-0.1,1764.5341549930365,-0.1
+Gold prices are falling because of inflation,negative,-1,2022-08-24,1773.6473911119328,1766.7632129285273,-0.3,1766.7632129285273,-0.3
+Investors are worried about gold due to geopolitical risks,negative,-1,2022-08-25,1772.377983877031,1768.608967743639,-0.4,1768.608967743639,-0.4
+Gold demand is decreasing amid economic uncertainty,negative,-1,2022-08-26,1770.1889100375367,1769.9228856059349,-0.6,1769.9228856059349,-0.6
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2022-08-27,1766.6137464353678,1770.700924310994,-0.4,1770.700924310994,-0.4
+Gold remains unchanged in light of central bank policies,neutral,0,2022-08-28,1768.2981176259389,1771.4743857654105,-0.3,1771.4743857654105,-0.3
+No major movement in gold prices because of investor sentiment,neutral,0,2022-08-29,1768.3002620614636,1771.3131209313512,-0.3,1771.3131209313512,-0.3
+Gold demand is decreasing amid market volatility,negative,-1,2022-08-30,1768.536895763129,1770.915614616463,-0.3,1770.915614616463,-0.3
+Investors are worried about gold due to economic uncertainty,negative,-1,2022-08-31,1766.1468946563605,1770.2154118252674,-0.3,1770.2154118252674,-0.3
+Gold prices are rising due to strong dollar,positive,1,2022-09-01,1771.0543573303212,1769.600665574814,-0.2,1769.600665574814,-0.2
+Gold is gaining value as market volatility improves,positive,1,2022-09-02,1771.8297753893698,1769.6994334288452,-0.2,1769.6994334288452,-0.2
+Strong buying interest pushes gold higher due to market volatility,positive,1,2022-09-03,1771.3163504385825,1769.46632936151,0.0,1769.46632936151,0.0
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2022-09-04,1768.6447846578008,1769.093009439587,0.0,1769.093009439587,0.0
+Gold prices are falling because of strong dollar,negative,-1,2022-09-05,1763.4254872729343,1768.416667163127,0.0,1768.416667163127,0.0
+Investors are worried about gold due to interest rate changes,negative,-1,2022-09-06,1757.3414588003272,1767.4894383996227,-0.2,1767.4894383996227,-0.2
+Gold is trading sideways due to economic uncertainty,neutral,0,2022-09-07,1760.1555258899314,1766.675179226022,-0.2,1766.675179226022,-0.2
+Investors are optimistic about gold because of global tensions,positive,1,2022-09-08,1762.424403371393,1766.087593357015,-0.1,1766.087593357015,-0.1
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2022-09-09,1762.0315272638732,1765.4370565070894,0.1,1765.4370565070894,0.1
+No major movement in gold prices because of economic uncertainty,neutral,0,2022-09-10,1766.2421538480885,1765.446582426262,0.2,1765.446582426262,0.2
+Gold is gaining value as inflation improves,positive,1,2022-09-11,1766.4588557313132,1764.9870322663614,0.2,1764.9870322663614,0.2
+Gold demand is decreasing amid inflation,negative,-1,2022-09-12,1769.9739570526756,1764.8014504326918,0.0,1764.8014504326918,0.0
+Gold is gaining value as geopolitical risks improves,positive,1,2022-09-13,1770.4921573067338,1764.719031119507,0.0,1764.719031119507,0.0
+Gold market shows little change amid interest rate changes,neutral,0,2022-09-14,1770.5562885980062,1764.9101815135275,0.1,1764.9101815135275,0.1
+Gold demand is decreasing amid strong dollar,negative,-1,2022-09-15,1773.00055954828,1765.8676887410625,0.1,1765.8676887410625,0.1
+Gold prices are falling because of economic uncertainty,negative,-1,2022-09-16,1767.432424694375,1766.876785330467,0.1,1766.876785330467,0.1
+Selling pressure reduces gold value because of inflation,negative,-1,2022-09-17,1775.798017542499,1768.441034495724,0.0,1768.441034495724,0.0
+No major movement in gold prices because of global tensions,neutral,0,2022-09-18,1786.336842806881,1770.8322784392726,-0.1,1770.8322784392726,-0.1
+Gold demand is decreasing amid market volatility,negative,-1,2022-09-19,1788.8503029051626,1773.5141560034017,-0.3,1773.5141560034017,-0.3
+Selling pressure reduces gold value because of weak currency,negative,-1,2022-09-20,1792.4523918211175,1776.1351798007042,-0.4,1776.1351798007042,-0.4
+Gold prices remain stable despite investor sentiment,neutral,0,2022-09-21,1790.3087314865093,1778.520167376224,-0.5,1778.520167376224,-0.5
+Investors are worried about gold due to central bank policies,negative,-1,2022-09-22,1787.273399209167,1780.250111591873,-0.5,1780.250111591873,-0.5
+Investors are worried about gold due to interest rate changes,negative,-1,2022-09-23,1788.924101810186,1782.0933060422185,-0.7,1782.0933060422185,-0.7
+Strong buying interest pushes gold higher due to stock market fluctuations,positive,1,2022-09-24,1786.5989626850142,1783.6975734509192,-0.6,1783.6975734509192,-0.6
+No major movement in gold prices because of inflation,neutral,0,2022-09-25,1790.7496461366736,1785.4724821097584,-0.5,1785.4724821097584,-0.5
+Gold demand is increasing amid inflation,positive,1,2022-09-26,1785.3504040148646,1787.2642800418075,-0.3,1787.2642800418075,-0.3
+Gold is gaining value as global tensions improves,positive,1,2022-09-27,1782.077816261486,1787.8922599137063,-0.1,1787.8922599137063,-0.1
+Strong buying interest pushes gold higher due to market volatility,positive,1,2022-09-28,1784.4068410251657,1787.6992597355347,0.0,1787.6992597355347,0.0
+Gold demand is decreasing amid economic uncertainty,negative,-1,2022-09-29,1785.7788570832824,1787.3921151533468,0.0,1787.3921151533468,0.0
+Gold prices are falling because of global tensions,negative,-1,2022-09-30,1787.266469728202,1786.873522944055,0.0,1786.873522944055,0.0
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2022-10-01,1784.733972628648,1786.316047058269,0.1,1786.316047058269,0.1
+Gold prices are falling because of stock market fluctuations,negative,-1,2022-10-02,1779.03678742975,1785.4923858803272,0.1,1785.4923858803272,0.1
+Investors are worried about gold due to weak currency,negative,-1,2022-10-03,1777.868113795599,1784.3867870788683,0.1,1784.3867870788683,0.1
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2022-10-04,1779.5813065825744,1783.6850214686244,-0.1,1783.6850214686244,-0.1
+Gold prices remain stable despite inflation,neutral,0,2022-10-05,1773.5441687513096,1781.9644737300882,-0.1,1781.9644737300882,-0.1
+Gold demand is decreasing amid economic uncertainty,negative,-1,2022-10-06,1775.0181128692634,1780.931244615528,-0.3,1780.931244615528,-0.3
+Gold is gaining value as global tensions improves,positive,1,2022-10-07,1772.5564128638223,1779.9791042757618,-0.3,1779.9791042757618,-0.3
+No major movement in gold prices because of inflation,neutral,0,2022-10-08,1773.8851335315364,1778.926933526399,-0.4,1778.926933526399,-0.4
+Selling pressure reduces gold value because of geopolitical risks,negative,-1,2022-10-09,1781.4014784586443,1778.4891956639349,-0.4,1778.4891956639349,-0.4
+Gold market shows little change amid interest rate changes,neutral,0,2022-10-10,1779.8333878427427,1777.745887475389,-0.3,1777.745887475389,-0.3
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-10-11,1772.4918799699703,1776.5216782095213,-0.3,1776.5216782095213,-0.3
+No major movement in gold prices because of stock market fluctuations,neutral,0,2022-10-12,1765.7502107955604,1775.1930205461024,-0.2,1775.1930205461024,-0.2
+Strong buying interest pushes gold higher due to inflation,positive,1,2022-10-13,1761.958528293491,1773.6020619958915,0.0,1773.6020619958915,0.0
+Investors are optimistic about gold because of investor sentiment,positive,1,2022-10-14,1762.1460317486142,1771.8585345124952,0.2,1771.8585345124952,0.2
+Gold remains unchanged in light of interest rate changes,neutral,0,2022-10-15,1752.4106961948244,1769.7451872568467,0.2,1769.7451872568467,0.2
+Gold market weakens as interest rate changes declines,negative,-1,2022-10-16,1748.6136083790116,1767.1047368078216,0.2,1767.1047368078216,0.2
+Gold remains unchanged in light of central bank policies,neutral,0,2022-10-17,1752.267344866657,1765.0758300081052,0.1,1765.0758300081052,0.1
+Strong buying interest pushes gold higher due to economic uncertainty,positive,1,2022-10-18,1746.0654824331818,1762.2938648982697,0.2,1762.2938648982697,0.2
+Strong buying interest pushes gold higher due to inflation,positive,1,2022-10-19,1746.9555966837554,1758.8492767207808,0.4,1758.8492767207808,0.4
+Investors are worried about gold due to strong dollar,negative,-1,2022-10-20,1747.4497313405018,1755.610911070557,0.3,1755.610911070557,0.3
+Gold is gaining value as geopolitical risks improves,positive,1,2022-10-21,1743.9334634519485,1752.7550694187546,0.3,1752.7550694187546,0.3
+Gold remains unchanged in light of stock market fluctuations,neutral,0,2022-10-22,1743.9187665989064,1750.571924999089,0.3,1750.571924999089,0.3
+Gold prices remain stable despite geopolitical risks,neutral,0,2022-10-23,1737.3685870350814,1748.1129308732482,0.2,1748.1129308732482,0.2
+Investors are worried about gold due to strong dollar,negative,-1,2022-10-24,1733.717057472051,1745.270033445592,0.0,1745.270033445592,0.0
+Gold is gaining value as geopolitical risks improves,positive,1,2022-10-25,1731.5191749214498,1743.1808813182547,0.1,1743.1808813182547,0.1
+Gold remains unchanged in light of geopolitical risks,neutral,0,2022-10-26,1725.3508040006527,1740.8546008804187,0.2,1740.8546008804187,0.2
+Gold prices remain stable despite market volatility,neutral,0,2022-10-27,1725.9836906035114,1738.226235454104,0.2,1738.226235454104,0.2
+Gold prices are falling because of inflation,negative,-1,2022-10-28,1718.87383767379,1735.5070709781648,0.0,1735.5070709781648,0.0
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-10-29,1707.9699619983107,1731.6085075096205,0.0,1731.6085075096205,0.0
+Gold prices remain stable despite central bank policies,neutral,0,2022-10-30,1713.5799333615917,1728.2215277117295,0.1,1728.2215277117295,0.1
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2022-10-31,1713.100531307814,1725.1382344973158,-0.1,1725.1382344973158,-0.1
+Gold is gaining value as global tensions improves,positive,1,2022-11-01,1701.521046251776,1720.8984624626028,0.0,1720.8984624626028,0.0
+Gold prices remain stable despite geopolitical risks,neutral,0,2022-11-02,1696.2768468329248,1716.7892884423873,0.0,1716.7892884423873,0.0
+Gold market shows little change amid stock market fluctuations,neutral,0,2022-11-03,1694.4816845162477,1712.8657511468068,0.1,1712.8657511468068,0.1
+Gold demand is decreasing amid geopolitical risks,negative,-1,2022-11-04,1693.402457835387,1709.0540794382007,-0.1,1709.0540794382007,-0.1
+Gold remains unchanged in light of geopolitical risks,neutral,0,2022-11-05,1693.7100915650944,1705.890008194645,-0.1,1705.890008194645,-0.1
+Gold prices are falling because of global tensions,negative,-1,2022-11-06,1694.2268293502177,1702.7143220693154,-0.2,1702.7143220693154,-0.2
+Gold prices are falling because of market volatility,negative,-1,2022-11-07,1693.5456332567376,1700.18150162761,-0.2,1700.18150162761,-0.2
+Gold demand is increasing amid stock market fluctuations,positive,1,2022-11-08,1693.8747090227446,1698.7719763300531,-0.2,1698.7719763300531,-0.2
+No major movement in gold prices because of geopolitical risks,neutral,0,2022-11-09,1694.2429794709733,1696.8382809409916,-0.2,1696.8382809409916,-0.2
+Investors are optimistic about gold because of weak currency,positive,1,2022-11-10,1690.7156263144873,1694.5997904416588,0.0,1694.5997904416588,0.0
+No major movement in gold prices because of weak currency,neutral,0,2022-11-11,1694.6646546419145,1693.9141512806727,-0.1,1693.9141512806727,-0.1
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2022-11-12,1696.6857290320984,1693.9550395005904,0.0,1693.9550395005904,0.0
+Gold market shows little change amid stock market fluctuations,neutral,0,2022-11-13,1703.73657864569,1694.8805289135344,0.0,1694.8805289135344,0.0
+Gold prices are falling because of central bank policies,negative,-1,2022-11-14,1707.8496991576628,1696.325253045762,0.0,1696.325253045762,0.0
+Gold prices are falling because of global tensions,negative,-1,2022-11-15,1707.2532210173551,1697.679565990988,-0.1,1697.679565990988,-0.1
+Gold market shows little change amid market volatility,neutral,0,2022-11-16,1717.5588617620574,1700.012769232172,0.0,1700.012769232172,0.0
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-11-17,1719.0254232825614,1702.5607482347543,0.2,1702.5607482347543,0.2
+Investors are worried about gold due to interest rate changes,negative,-1,2022-11-18,1720.7575335311826,1705.2490306855984,0.0,1705.2490306855984,0.0
+Gold is gaining value as investor sentiment improves,positive,1,2022-11-19,1712.7570758240204,1707.100440320903,0.1,1707.100440320903,0.1
+Gold demand is increasing amid economic uncertainty,positive,1,2022-11-20,1712.4007786753282,1709.2689555569873,0.1,1709.2689555569873,0.1
+No major movement in gold prices because of geopolitical risks,neutral,0,2022-11-21,1710.5710454706054,1710.859594639856,0.1,1710.859594639856,0.1
+Gold is trading sideways due to geopolitical risks,neutral,0,2022-11-22,1711.8635783248033,1712.3773795691263,0.0,1712.3773795691263,0.0
+Gold prices are rising due to strong dollar,positive,1,2022-11-23,1699.19648511866,1711.9233702164238,0.1,1711.9233702164238,0.1
+Gold prices are falling because of interest rate changes,negative,-1,2022-11-24,1696.6629274850711,1710.8046930491644,0.1,1710.8046930491644,0.1
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2022-11-25,1693.9639655812998,1709.475767505559,0.3,1709.475767505559,0.3
+Gold demand is increasing amid central bank policies,positive,1,2022-11-26,1696.8605265526214,1707.405933984615,0.4,1707.405933984615,0.4
+Gold remains unchanged in light of global tensions,neutral,0,2022-11-27,1689.5247789945745,1704.455869555817,0.3,1704.455869555817,0.3
+Gold prices are falling because of geopolitical risks,negative,-1,2022-11-28,1693.0725291303966,1701.687369115738,0.3,1701.687369115738,0.3
+Gold remains unchanged in light of global tensions,neutral,0,2022-11-29,1694.8329288090044,1699.8949544142365,0.2,1699.8949544142365,0.2
+Investors are optimistic about gold because of stock market fluctuations,positive,1,2022-11-30,1702.5600230199116,1698.910878848695,0.2,1698.910878848695,0.2
+Gold prices are rising due to central bank policies,positive,1,2022-12-01,1702.7839054038077,1698.1321648420148,0.3,1698.1321648420148,0.3
+Gold prices are falling because of interest rate changes,negative,-1,2022-12-02,1701.9255552295629,1697.138362532491,0.2,1697.138362532491,0.2
+Investors are worried about gold due to economic uncertainty,negative,-1,2022-12-03,1704.5725053779713,1697.675964558422,0.0,1697.675964558422,0.0
+Gold is gaining value as market volatility improves,positive,1,2022-12-04,1704.9766795212183,1698.5073397620367,0.2,1698.5073397620367,0.2
+Selling pressure reduces gold value because of global tensions,negative,-1,2022-12-05,1701.488052057462,1699.2597484096532,0.0,1699.2597484096532,0.0
+Gold market shows little change amid stock market fluctuations,neutral,0,2022-12-06,1709.751430913121,1700.548838845703,-0.1,1700.548838845703,-0.1
+Strong buying interest pushes gold higher due to weak currency,positive,1,2022-12-07,1700.1740804371043,1701.6137689899558,0.0,1701.6137689899558,0.0
+Gold is gaining value as interest rate changes improves,positive,1,2022-12-08,1700.7663187757487,1702.383147954491,0.2,1702.383147954491,0.2
+Gold demand is decreasing amid weak currency,negative,-1,2022-12-09,1691.7691758080318,1702.0767726543938,0.1,1702.0767726543938,0.1
+Gold market shows little change amid weak currency,neutral,0,2022-12-10,1690.9532848668705,1700.91609883909,0.0,1700.91609883909,0.0
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2022-12-11,1692.5421565040351,1699.8919239491129,-0.2,1699.8919239491129,-0.2
+Gold is trading sideways due to market volatility,neutral,0,2022-12-12,1694.3369641592262,1699.133064842079,-0.1,1699.133064842079,-0.1
+Gold demand is increasing amid geopolitical risks,positive,1,2022-12-13,1701.4875515590334,1698.824569460185,0.1,1698.824569460185,0.1
+Gold is trading sideways due to investor sentiment,neutral,0,2022-12-14,1708.622989188919,1699.1892004269553,0.0,1699.1892004269553,0.0
+Selling pressure reduces gold value because of investor sentiment,negative,-1,2022-12-15,1709.1544611786762,1699.9558413390769,0.0,1699.9558413390769,0.0
+No major movement in gold prices because of economic uncertainty,neutral,0,2022-12-16,1708.9762366167874,1699.8783219094432,0.0,1699.8783219094432,0.0
+Gold demand is increasing amid weak currency,positive,1,2022-12-17,1711.5290175201933,1701.0138156177522,0.0,1701.0138156177522,0.0
+Investors are optimistic about gold because of economic uncertainty,positive,1,2022-12-18,1709.019139556938,1701.8390976958713,0.0,1701.8390976958713,0.0
+Gold is trading sideways due to investor sentiment,neutral,0,2022-12-19,1702.071186294375,1702.8692987445054,0.1,1702.8692987445054,0.1
+Gold prices remain stable despite inflation,neutral,0,2022-12-20,1705.9586693433812,1704.3698371921564,0.1,1704.3698371921564,0.1
+Gold prices remain stable despite geopolitical risks,neutral,0,2022-12-21,1709.9800220272984,1706.113623744483,0.2,1706.113623744483,0.2
+Gold is gaining value as geopolitical risks improves,positive,1,2022-12-22,1718.0753884245205,1708.4874661710123,0.3,1708.4874661710123,0.3
+Investors are worried about gold due to inflation,negative,-1,2022-12-23,1718.3597095781545,1710.1746819729244,0.1,1710.1746819729244,0.1
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2022-12-24,1724.594187170072,1711.7718017710397,0.0,1711.7718017710397,0.0
+Gold market weakens as weak currency declines,negative,-1,2022-12-25,1728.085271687695,1713.6648828219415,0.0,1713.6648828219415,0.0
+Gold is trading sideways due to central bank policies,neutral,0,2022-12-26,1727.477731053957,1715.5150322656584,0.0,1715.5150322656584,0.0
+Gold prices are rising due to central bank policies,positive,1,2022-12-27,1726.2510341850998,1716.987233932149,0.0,1716.987233932149,0.0
+Gold prices are rising due to strong dollar,positive,1,2022-12-28,1732.894407409981,1719.3747607174532,0.0,1719.3747607174532,0.0
+Strong buying interest pushes gold higher due to market volatility,positive,1,2022-12-29,1727.3984987262047,1721.9074919606362,0.1,1721.9074919606362,0.1
+Gold market shows little change amid geopolitical risks,neutral,0,2022-12-30,1724.3994264283813,1723.7515676691364,0.1,1723.7515676691364,0.1
+Gold remains unchanged in light of weak currency,neutral,0,2022-12-31,1733.6463504090898,1726.1182005073156,0.1,1726.1182005073156,0.1
+Gold market shows little change amid investor sentiment,neutral,0,2023-01-01,1736.5465825322633,1727.9653199180898,0.0,1727.9653199180898,0.0
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2023-01-02,1750.503825070591,1731.1797314673336,0.2,1731.1797314673336,0.2
+Gold prices are falling because of market volatility,negative,-1,2023-01-03,1747.2641869617794,1733.446731446504,0.2,1733.446731446504,0.2
+Selling pressure reduces gold value because of inflation,negative,-1,2023-01-04,1747.71564157381,1735.4097684351157,0.2,1735.4097684351157,0.2
+Investors are optimistic about gold because of global tensions,positive,1,2023-01-05,1756.8348111929822,1738.3454764490184,0.3,1738.3454764490184,0.3
+Gold prices are rising due to stock market fluctuations,positive,1,2023-01-06,1756.3740931152574,1741.357782342034,0.3,1741.357782342034,0.3
+No major movement in gold prices because of inflation,neutral,0,2023-01-07,1769.1629926806927,1744.984640869105,0.2,1744.984640869105,0.2
+No major movement in gold prices because of economic uncertainty,neutral,0,2023-01-08,1774.973042086325,1749.7420952051173,0.1,1749.7420952051173,0.1
+Gold market shows little change amid interest rate changes,neutral,0,2023-01-09,1775.5157027914615,1754.853722841425,0.1,1754.853722841425,0.1
+Gold prices remain stable despite interest rate changes,neutral,0,2023-01-10,1778.5840002892023,1759.3474878294364,0.1,1759.3474878294364,0.1
+Selling pressure reduces gold value because of central bank policies,negative,-1,2023-01-11,1782.1131620604745,1763.9041457822575,0.0,1763.9041457822575,0.0
+Gold market weakens as investor sentiment declines,negative,-1,2023-01-12,1776.690981198086,1766.522861395007,-0.2,1766.522861395007,-0.2
+Gold is gaining value as geopolitical risks improves,positive,1,2023-01-13,1778.486490834192,1769.6450917822483,0.0,1769.6450917822483,0.0
+Gold prices remain stable despite inflation,neutral,0,2023-01-14,1782.800731572671,1773.1536007821346,0.1,1773.1536007821346,0.1
+Gold demand is increasing amid investor sentiment,positive,1,2023-01-15,1787.9598784658283,1776.266107509419,0.1,1776.266107509419,0.1
+Strong buying interest pushes gold higher due to market volatility,positive,1,2023-01-16,1790.0521672845975,1779.633914926353,0.1,1779.633914926353,0.1
+Gold demand is decreasing amid weak currency,negative,-1,2023-01-17,1784.6637028292305,1781.1839859412066,0.0,1781.1839859412066,0.0
+Gold market weakens as weak currency declines,negative,-1,2023-01-18,1785.4347568268088,1782.2301574152552,-0.1,1782.2301574152552,-0.1
+Selling pressure reduces gold value because of global tensions,negative,-1,2023-01-19,1785.358650759029,1783.214452212012,-0.2,1783.214452212012,-0.2
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2023-01-20,1787.128338135637,1784.0688859966554,-0.1,1784.0688859966554,-0.1
+Gold is trading sideways due to geopolitical risks,neutral,0,2023-01-21,1790.87930959709,1784.945500750317,0.0,1784.945500750317,0.0
+Gold demand is decreasing amid geopolitical risks,negative,-1,2023-01-22,1790.6203011401708,1786.3384327445256,0.0,1786.3384327445256,0.0
+Investors are worried about gold due to strong dollar,negative,-1,2023-01-23,1792.5024984317909,1787.7400335042853,-0.2,1787.7400335042853,-0.2
+No major movement in gold prices because of economic uncertainty,neutral,0,2023-01-24,1801.79720202649,1789.6396805496672,-0.2,1789.6396805496672,-0.2
+Gold is trading sideways due to investor sentiment,neutral,0,2023-01-25,1812.8696840618288,1792.1306611092673,-0.3,1792.1306611092673,-0.3
+Gold demand is increasing amid interest rate changes,positive,1,2023-01-26,1804.8816075584364,1793.613605136651,-0.3,1793.613605136651,-0.3
+Gold demand is decreasing amid strong dollar,negative,-1,2023-01-27,1794.1758865847526,1794.5648235122032,-0.3,1794.5648235122032,-0.3
+Investors are worried about gold due to market volatility,negative,-1,2023-01-28,1787.4924112305248,1794.770588952575,-0.3,1794.770588952575,-0.3
+Gold demand is decreasing amid interest rate changes,negative,-1,2023-01-29,1788.4543672189338,1795.0801605985655,-0.3,1795.0801605985655,-0.3
+Gold prices are rising due to geopolitical risks,positive,1,2023-01-30,1785.831184259181,1794.95044521092,-0.3,1794.95044521092,-0.3
+Gold is trading sideways due to global tensions,neutral,0,2023-01-31,1785.719649259253,1794.434479177136,-0.3,1794.434479177136,-0.3
+Gold market shows little change amid inflation,neutral,0,2023-02-01,1789.0559590335167,1794.2780449664708,-0.2,1794.2780449664708,-0.2
+Gold market shows little change amid economic uncertainty,neutral,0,2023-02-02,1793.902690318655,1794.418064155157,-0.1,1794.418064155157,-0.1
+Gold demand is decreasing amid market volatility,negative,-1,2023-02-03,1793.8408703086784,1793.622430983376,-0.2,1793.622430983376,-0.2
+No major movement in gold prices because of stock market fluctuations,neutral,0,2023-02-04,1800.0902595830837,1792.3444885355016,-0.2,1792.3444885355016,-0.2
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2023-02-05,1799.7407868287114,1791.8304064625288,-0.4,1791.8304064625288,-0.4
+Gold prices remain stable despite central bank policies,neutral,0,2023-02-06,1804.9948501266515,1792.912302816719,-0.3,1792.912302816719,-0.3
+Gold market shows little change amid weak currency,neutral,0,2023-02-07,1806.758151771014,1794.8388768707678,-0.2,1794.8388768707678,-0.2
+Gold market shows little change amid global tensions,neutral,0,2023-02-08,1807.5015064803265,1796.7435907969073,-0.1,1796.7435907969073,-0.1
+Gold remains unchanged in light of investor sentiment,neutral,0,2023-02-09,1805.382842403696,1798.6987566113585,-0.2,1798.6987566113585,-0.2
+No major movement in gold prices because of market volatility,neutral,0,2023-02-10,1803.709641870548,1800.497755872488,-0.2,1800.497755872488,-0.2
+Gold is gaining value as central bank policies improves,positive,1,2023-02-11,1810.5777101626936,1802.6499309854055,-0.1,1802.6499309854055,-0.1
+No major movement in gold prices because of interest rate changes,neutral,0,2023-02-12,1814.2381487073771,1804.6834768242784,-0.1,1804.6834768242784,-0.1
+Gold demand is increasing amid central bank policies,positive,1,2023-02-13,1818.7682404682528,1807.1762138402355,0.1,1807.1762138402355,0.1
+No major movement in gold prices because of interest rate changes,neutral,0,2023-02-14,1818.0554165709227,1808.97272953902,0.1,1808.97272953902,0.1
+Gold is gaining value as global tensions improves,positive,1,2023-02-15,1813.5885331747668,1810.357504173625,0.3,1810.357504173625,0.3
+Investors are worried about gold due to global tensions,negative,-1,2023-02-16,1814.086259655572,1811.266645126517,0.2,1811.266645126517,0.2
+Gold demand is decreasing amid interest rate changes,negative,-1,2023-02-17,1809.589512131531,1811.5497811625687,0.1,1811.5497811625687,0.1
+Gold demand is decreasing amid inflation,negative,-1,2023-02-18,1814.6712970664885,1812.2667602211848,0.0,1812.2667602211848,0.0
+Gold remains unchanged in light of economic uncertainty,neutral,0,2023-02-19,1812.3153189642487,1812.96000787724,0.0,1812.96000787724,0.0
+Strong buying interest pushes gold higher due to geopolitical risks,positive,1,2023-02-20,1807.4762885725092,1813.3366725474364,0.1,1813.3366725474364,0.1
+Selling pressure reduces gold value because of geopolitical risks,negative,-1,2023-02-21,1804.9739238825791,1812.7762939194247,-0.1,1812.7762939194247,-0.1
+Gold demand is decreasing amid interest rate changes,negative,-1,2023-02-22,1805.1742083289728,1811.8698998815848,-0.2,1811.8698998815848,-0.2
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2023-02-23,1806.6714314662809,1810.660218981387,-0.4,1810.660218981387,-0.4
+Gold demand is decreasing amid geopolitical risks,negative,-1,2023-02-24,1804.8964926441736,1809.344326588712,-0.5,1809.344326588712,-0.5
+Gold market weakens as market volatility declines,negative,-1,2023-02-25,1803.26450096438,1808.3119233676732,-0.7,1808.3119233676732,-0.7
+Selling pressure reduces gold value because of investor sentiment,negative,-1,2023-02-26,1802.7705306667744,1807.1803504687937,-0.7,1807.1803504687937,-0.7
+Gold demand is increasing amid central bank policies,positive,1,2023-02-27,1799.2165580205435,1806.1430550576952,-0.5,1806.1430550576952,-0.5
+Investors are optimistic about gold because of weak currency,positive,1,2023-02-28,1795.5660327756536,1804.232528628612,-0.3,1804.232528628612,-0.3
+No major movement in gold prices because of geopolitical risks,neutral,0,2023-03-01,1797.0641584379168,1802.7074125759784,-0.3,1802.7074125759784,-0.3
+Selling pressure reduces gold value because of market volatility,negative,-1,2023-03-02,1794.9555274891638,1801.455336467644,-0.5,1801.455336467644,-0.5
+Gold demand is decreasing amid geopolitical risks,negative,-1,2023-03-03,1790.8596140141483,1800.0439054808007,-0.5,1800.0439054808007,-0.5
+Investors are optimistic about gold because of market volatility,positive,1,2023-03-04,1793.9727378673688,1798.9237584346404,-0.3,1798.9237584346404,-0.3
+Investors are optimistic about gold because of investor sentiment,positive,1,2023-03-05,1790.7118592416032,1797.3278012121723,-0.1,1797.3278012121723,-0.1
+Strong buying interest pushes gold higher due to weak currency,positive,1,2023-03-06,1787.9176212912566,1795.629914076881,0.1,1795.629914076881,0.1
+Gold prices are falling because of global tensions,negative,-1,2023-03-07,1784.522011501745,1793.7556651306174,0.1,1793.7556651306174,0.1
+Strong buying interest pushes gold higher due to interest rate changes,positive,1,2023-03-08,1794.5373198809782,1792.9323440520377,0.3,1792.9323440520377,0.3
+Gold prices remain stable despite inflation,neutral,0,2023-03-09,1803.850877164188,1793.3957759664022,0.2,1793.3957759664022,0.2
+Gold prices are falling because of inflation,negative,-1,2023-03-10,1809.9731764436624,1794.8364903332028,0.0,1794.8364903332028,0.0
+Gold is trading sideways due to stock market fluctuations,neutral,0,2023-03-11,1807.5374358983045,1795.883818079242,0.0,1795.883818079242,0.0
+Gold prices are rising due to economic uncertainty,positive,1,2023-03-12,1809.6686050976616,1797.3551258400917,0.2,1797.3551258400917,0.2
+Gold prices are falling because of investor sentiment,negative,-1,2023-03-13,1811.9776279522573,1799.4669272339029,0.2,1799.4669272339029,0.2
+Gold prices are rising due to strong dollar,positive,1,2023-03-14,1820.70885560685,1802.1405390078507,0.2,1802.1405390078507,0.2
+Gold market shows little change amid central bank policies,neutral,0,2023-03-15,1820.6812521878087,1805.1374783024712,0.1,1805.1374783024712,0.1
+Strong buying interest pushes gold higher due to global tensions,positive,1,2023-03-16,1812.8760171256213,1807.633317885908,0.1,1807.633317885908,0.1
+Gold is gaining value as market volatility improves,positive,1,2023-03-17,1810.586448792408,1810.2397616149744,0.3,1810.2397616149744,0.3
+Gold is gaining value as global tensions improves,positive,1,2023-03-18,1808.0221492058856,1811.588244547465,0.3,1811.588244547465,0.3
+Gold is gaining value as central bank policies improves,positive,1,2023-03-19,1803.4866777384784,1811.5518246048937,0.4,1811.5518246048937,0.4
+Gold demand is increasing amid economic uncertainty,positive,1,2023-03-20,1809.2892157342133,1811.4834285339489,0.6,1811.4834285339489,0.6
+Gold market shows little change amid investor sentiment,neutral,0,2023-03-21,1807.514890562676,1811.481174000386,0.6,1811.481174000386,0.6
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2023-03-22,1821.1322640240392,1812.627539893024,0.6,1812.627539893024,0.6
+Gold market weakens as global tensions declines,negative,-1,2023-03-23,1813.4631567880456,1812.7760927766024,0.6,1812.7760927766024,0.6
+Investors are optimistic about gold because of investor sentiment,positive,1,2023-03-24,1821.646537437609,1812.8698609596788,0.6,1812.8698609596788,0.6
+Strong buying interest pushes gold higher due to investor sentiment,positive,1,2023-03-25,1821.9307834157407,1812.9948140824715,0.7,1812.9948140824715,0.7
+Gold prices are rising due to stock market fluctuations,positive,1,2023-03-26,1822.697367319461,1813.976949101856,0.7,1813.976949101856,0.7
+Gold demand is increasing amid weak currency,positive,1,2023-03-27,1826.341166122395,1815.5524208348545,0.7,1815.5524208348545,0.7
+Gold is gaining value as interest rate changes improves,positive,1,2023-03-28,1818.3747188398677,1816.5876777982528,0.7,1816.5876777982528,0.7
+Selling pressure reduces gold value because of interest rate changes,negative,-1,2023-03-29,1805.4904607850845,1816.788056102913,0.5,1816.788056102913,0.5
+Selling pressure reduces gold value because of stock market fluctuations,negative,-1,2023-03-30,1807.2508022510085,1816.5842147545925,0.3,1816.5842147545925,0.3
+Investors are worried about gold due to economic uncertainty,negative,-1,2023-03-31,1810.7370759136852,1816.9064332896933,0.2,1816.9064332896933,0.2
+Investors are worried about gold due to strong dollar,negative,-1,2023-04-01,1817.239738661036,1816.517180753393,0.0,1816.517180753393,0.0
+Selling pressure reduces gold value because of economic uncertainty,negative,-1,2023-04-02,1808.4501545241883,1816.0158805270075,0.0,1816.0158805270075,0.0
+Investors are worried about gold due to strong dollar,negative,-1,2023-04-03,1815.203974052636,1815.3716241885104,-0.2,1815.3716241885104,-0.2
+Investors are worried about gold due to investor sentiment,negative,-1,2023-04-04,1818.192630780144,1814.9978089249507,-0.4,1814.9978089249507,-0.4
+Gold prices are falling because of inflation,negative,-1,2023-04-05,1821.7195271307496,1814.90002490608,-0.6,1814.90002490608,-0.6
+Gold prices are rising due to market volatility,positive,1,2023-04-06,1816.070281637746,1813.8729364576143,-0.6,1813.8729364576143,-0.6
+Strong buying interest pushes gold higher due to strong dollar,positive,1,2023-04-07,1819.624327042905,1813.9978972779184,-0.6,1813.9978972779184,-0.6
+Gold prices are falling because of interest rate changes,negative,-1,2023-04-08,1816.235346210819,1815.072385820492,-0.6,1815.072385820492,-0.6
+Selling pressure reduces gold value because of inflation,negative,-1,2023-04-09,1818.911624187508,1816.2384680141415,-0.6,1816.2384680141415,-0.6
+Gold demand is increasing amid market volatility,positive,1,2023-04-10,1814.7993895580569,1816.644699378579,-0.4,1816.644699378579,-0.4
+Gold is gaining value as global tensions improves,positive,1,2023-04-11,1816.4274799639115,1816.5634735088663,-0.2,1816.5634735088663,-0.2
+Gold market shows little change amid strong dollar,neutral,0,2023-04-12,1815.0312112073736,1817.221579177185,-0.1,1817.221579177185,-0.1
+Gold market shows little change amid investor sentiment,neutral,0,2023-04-13,1815.2467710462688,1817.2258588765485,0.0,1817.2258588765485,0.0
+Gold demand is decreasing amid stock market fluctuations,negative,-1,2023-04-14,1819.6985770745705,1817.3764535059909,0.0,1817.3764535059909,0.0
